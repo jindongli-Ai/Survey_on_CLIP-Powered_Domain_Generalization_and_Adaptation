@@ -2,6 +2,11 @@
 
 ## Domain Generalization
 
+### Prompt Learning Optimization
+
+### Adopted as Backbone or Encoder
+
+
 ## Domain Adaptation
 
 ### Source-Available
