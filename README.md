@@ -3,6 +3,10 @@
 ## Domain Generalization
 
 ### Prompt Learning Optimization
+1. [Learning to prompt for vision-language models](https://arxiv.org/abs/2109.01134)
+2. [Conditional prompt learning for vision-language models](https://arxiv.org/abs/2203.05557)
+3. [Maple: Multi-modal prompt learning](https://arxiv.org/abs/2210.03117)
+4. [{LAMM: Label Alignment for Multi-Modal Prompt Learning](https://arxiv.org/abs/2312.08212)
 
 ### Adopted as Backbone or Encoder
 #### Source-Available (SA)
@@ -19,8 +23,8 @@
 ##### Source-Available Open-Set Unsupervised Domain Adaptation (SA-OSUDA)
 #### Multi-Source
 ##### Multi-Source Unsupervised Domain Adaptation (MS-UDA)
-1. [Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation](https://arxiv.org/abs/2209.15210#:~:text=Inspired%20by%20recent%20advances%20in%20prompt%20learning%20that,a%20simple%20yet%20efficient%20framework%20for%20multi-source%20UDA.)
-2. [LanDA: Language-Guided Multi-Source Domain Adaptation](https://arxiv.org/abs/2401.14148#:~:text=By%20employing%20a%20multimodal%20model%20with%20a%20joint,single%20target%20domain%20image%2C%20while%20retaining%20task-relevant%20information.)
+1. [Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation](https://arxiv.org/abs/2209.15210)
+2. [LanDA: Language-Guided Multi-Source Domain Adaptation](https://arxiv.org/abs/2401.14148)
 3. [Semantic-Aware Adaptive Prompt Learning for Universal Multi-Source Domain Adaptation](https://ieeexplore.ieee.org/document/10502133)
 ##### Multi-Source Few-Shot Domain Adaptation (MS-FSDA)
 1. [Domain Prompt Matters a Lot in Multi-Source Few-Shot Domain Adaptation](https://openreview.net/forum?id=YRJDZYGmAZ)
