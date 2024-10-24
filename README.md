@@ -6,7 +6,7 @@
 1. [Learning to prompt for vision-language models](https://arxiv.org/abs/2109.01134)
 2. [Conditional prompt learning for vision-language models](https://arxiv.org/abs/2203.05557)
 3. [Maple: Multi-modal prompt learning](https://arxiv.org/abs/2210.03117)
-4. [{LAMM: Label Alignment for Multi-Modal Prompt Learning](https://arxiv.org/abs/2312.08212)
+4. [LAMM: Label Alignment for Multi-Modal Prompt Learning](https://arxiv.org/abs/2312.08212)
 
 ### Adopted as Backbone or Encoder
 #### Source-Available (SA)
