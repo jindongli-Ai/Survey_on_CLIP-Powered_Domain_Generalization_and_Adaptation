@@ -36,6 +36,8 @@
 
 #### Source-Free Unsupervised Domain Adaptation (SF-UDA)
 
+#### Source-Free Open-Set Unsupervised Domain Adaptation (SF-OSUDA)
+
 ## Challenges and Opportunities
 
 ## Future Directions
