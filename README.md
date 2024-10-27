@@ -34,14 +34,13 @@
 
 
 ### Source-Free
+#### Source-Fully-Free (SFF)
+##### Source-Fully-Free Closed-Set Unsupervised Domain Adaptation (SF-UDA) aka. Unsupervised Fine-Tuning (UFT)
 
-#### Source-Free Domain Adaptation (SF-DA)
-
-#### Source-Free Closed-Set Unsupervised Domain Adaptation (SF-UDA)
-
-#### Source-Free Partial-Set Unsupervised Domain Adaptation (SF-PSUDA)
-
-#### Source-Free Open-Set Unsupervised Domain Adaptation (SF-OSUDA)
+#### Source-Data-Free (SDF)
+##### Source-Data-Free Closed-Set Unsupervised Domain Adaptation (SF-UDA)
+##### Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SF-PSUDA)
+##### Source-Data-Free Open-Set Unsupervised Domain Adaptation (SF-OSUDA)
 
 ## Challenges and Opportunities
 
