@@ -10,17 +10,19 @@
 
 ### Adopted as Backbone or Encoder
 #### Source-Available (SA)
+##### Single-Source Domain Generalization
+##### Multi-Source Domain Generalization
 
 #### Source-Free (SF)
+##### Source-Free Domain Generalization (SF-DG)
+
 
 
 ## Domain Adaptation
-
 ### Source-Available
 #### Single-Source
 ##### Source-Available Domain Adaptation (SA-DA)
 ##### Source-Available Closed-Set Unsupervised Domain Adaptation (SA-UDA)
-##### Source-Available Partial-Set Unsupervised Domain Adaptation (SA-PSUDA)
 ##### Source-Available Open-Set Unsupervised Domain Adaptation (SA-OSUDA)
 #### Multi-Source
 ##### Multi-Source Unsupervised Domain Adaptation (MS-UDA)
@@ -36,6 +38,8 @@
 #### Source-Free Domain Adaptation (SF-DA)
 
 #### Source-Free Closed-Set Unsupervised Domain Adaptation (SF-UDA)
+
+#### Source-Free Partial-Set Unsupervised Domain Adaptation (SF-PSUDA)
 
 #### Source-Free Open-Set Unsupervised Domain Adaptation (SF-OSUDA)
 
