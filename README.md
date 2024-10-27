@@ -19,7 +19,8 @@
 ### Source-Available
 #### Single-Source
 ##### Source-Available Domain Adaptation (SA-DA)
-##### Source-Available Close-Set Unsupervised Domain Adaptation (SA-UDA)
+##### Source-Available Closed-Set Unsupervised Domain Adaptation (SA-UDA)
+##### Source-Available Partial-Set Unsupervised Domain Adaptation (SA-PSUDA)
 ##### Source-Available Open-Set Unsupervised Domain Adaptation (SA-OSUDA)
 #### Multi-Source
 ##### Multi-Source Unsupervised Domain Adaptation (MS-UDA)
@@ -34,7 +35,7 @@
 
 #### Source-Free Domain Adaptation (SF-DA)
 
-#### Source-Free Unsupervised Domain Adaptation (SF-UDA)
+#### Source-Free Closed-Set Unsupervised Domain Adaptation (SF-UDA)
 
 #### Source-Free Open-Set Unsupervised Domain Adaptation (SF-OSUDA)
 
