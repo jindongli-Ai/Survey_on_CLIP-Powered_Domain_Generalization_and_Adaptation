@@ -1,27 +1,27 @@
 # A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond
 
 <p align="center">
-    <img src="./figs/structure.png" alt="Structure" width="600" />
+    <img src="./figs/structure.png" alt="Structure" width="750" />
 </p>
 <br>
 <br>
 
 <p align="center">
-    <img src="./figs/DG-and-DA.png" alt="Domain Generalization and Adaptation" width="600" />
-</p>
-<br>
-<br>
-
-
-<p align="center">
-    <img src="./figs/SA.png" alt="Source Available" width="600" />
+    <img src="./figs/DG-and-DA.png" alt="Domain Generalization and Adaptation" width="700" />
 </p>
 <br>
 <br>
 
 
 <p align="center">
-    <img src="./figs/SF.png" alt="Source Free" width="600" />
+    <img src="./figs/SA.png" alt="Source Available" width="700" />
+</p>
+<br>
+<br>
+
+
+<p align="center">
+    <img src="./figs/SF.png" alt="Source Free" width="700" />
 </p>
 <br>
 <br>
@@ -131,6 +131,13 @@
 2. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
 3. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
 
+<br>
+<br>
+<p align="center">
+    <img src="./figs/different-scenarios.png" alt="Different Scenarios" width="800" />
+</p>
+<br>
+<br>
 
 ## Challenges and Opportunities
 
