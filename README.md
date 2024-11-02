@@ -1,4 +1,4 @@
-# A Comprehensive Survey of CLIP Powered Domain Generalization and Adaptation: Review and Beyond
+# A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond
 
 <img src="./figs/structure.png" alt="Alt text" width="600" />
 <br>
