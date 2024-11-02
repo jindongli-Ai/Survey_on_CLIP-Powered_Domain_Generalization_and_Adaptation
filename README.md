@@ -1,5 +1,22 @@
 # A Comprehensive Survey of CLIP Powered Domain Generalization and Adaptation: Review and Beyond
 
+<img src="./figs/structure.png" alt="Alt text" width="600" />
+<br>
+
+<img src="./figs/DG-and-DA.png" alt="Alt text" width="600" />
+<br>
+
+<img src="./figs/SA.png" alt="Alt text" width="600" />
+<br>
+
+<img src="./figs/SF.png" alt="Alt text" width="600" />
+<br>
+
+<img src="./figs/Closed-Partial-Open-set.png" alt="Alt text" width="600" />
+<br>
+
+
+
 ## Domain Generalization
 
 ### Prompt Learning Optimization
