@@ -1,19 +1,38 @@
 # A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond
 
-<img src="./figs/structure.png" alt="Alt text" width="600" />
+<p align="center">
+    <img src="./figs/structure.png" alt="Structure" width="600" />
+</p>
+<br>
 <br>
 
-<img src="./figs/DG-and-DA.png" alt="Alt text" width="600" />
+<p align="center">
+    <img src="./figs/DG-and-DA.png" alt="Domain Generalization and Adaptation" width="600" />
+</p>
+<br>
 <br>
 
-<img src="./figs/SA.png" alt="Alt text" width="600" />
+
+<p align="center">
+    <img src="./figs/SA.png" alt="Source Available" width="600" />
+</p>
+<br>
 <br>
 
-<img src="./figs/SF.png" alt="Alt text" width="600" />
+
+<p align="center">
+    <img src="./figs/SF.png" alt="Source Free" width="600" />
+</p>
+<br>
 <br>
 
-<img src="./figs/Closed-Partial-Open-set.png" alt="Alt text" width="600" />
+
+<p align="center">
+    <img src="./figs/Closed-Partial-Open-set.png" alt="Closed, Partial, and Open Set" width="600" />
+</p>
 <br>
+<br>
+
 
 
 
