@@ -28,7 +28,7 @@
 
 
 <p align="center">
-    <img src="./figs/Closed-Partial-Open-set.png" alt="Closed, Partial, and Open Set" width="600" />
+    <img src="./figs/Closed-Partial-Open-set.png" alt="Closed, Partial, and Open Set" width="700" />
 </p>
 <br>
 
