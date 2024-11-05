@@ -34,7 +34,19 @@
 
 
 <p align="center">
-    <img src="./figs/CLIP_training_and_zero-shot.png" alt="CLIP_training_and_zero-shot" width="900" />
+    <img src="./figs/CLIP_training_and_zero-shot.png" alt="CLIP_training_and_zero-shot" width="1000" />
+</p>
+<br>
+
+
+<p align="center">
+    <img src="./figs/CLIP-prompt-learning-optimization.png" alt="CLIP_training_and_zero-shot" width="700" />
+</p>
+<br>
+
+
+<p align="center">
+    <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="1000" />
 </p>
 <br>
 
