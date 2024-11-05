@@ -1,10 +1,16 @@
 # A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond
 
+## Introduction
+
 <p align="center">
     <img src="./figs/structure.png" alt="Structure" width="750" />
 </p>
 <br>
 <br>
+
+
+## Preliminaries
+
 
 <p align="center">
     <img src="./figs/DG-and-DA.png" alt="Domain Generalization and Adaptation" width="700" />
@@ -39,27 +45,27 @@
 <br>
 
 
+## Domain Generalization
+
+### Prompt Learning Optimization
+
 <p align="center">
     <img src="./figs/CLIP-prompt-learning-optimization.png" alt="CLIP_training_and_zero-shot" width="700" />
 </p>
 <br>
 
-
-<p align="center">
-    <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="1000" />
-</p>
-<br>
-
-
-## Domain Generalization
-
-### Prompt Learning Optimization
 1. [Learning to prompt for vision-language models](https://arxiv.org/abs/2109.01134)
 2. [Conditional prompt learning for vision-language models](https://arxiv.org/abs/2203.05557)
 3. [Maple: Multi-modal prompt learning](https://arxiv.org/abs/2210.03117)
 4. [LAMM: Label Alignment for Multi-Modal Prompt Learning](https://arxiv.org/abs/2312.08212)
 
 ### Adopted as Backbone or Encoder
+
+<p align="center">
+    <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="1000" />
+</p>
+<br>
+
 #### Source-Available (SA)
 ##### Single-Source Domain Generalization (SS-DG)
 1. [StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization](https://arxiv.org/abs/2302.09251)
