@@ -59,7 +59,7 @@
 3. [Maple: Multi-modal prompt learning](https://arxiv.org/abs/2210.03117)
 4. [LAMM: Label Alignment for Multi-Modal Prompt Learning](https://arxiv.org/abs/2312.08212)
 
-### Adopted as Backbone or Encoder
+### CLIP is Adopted as Backbone or Encoder
 
 <p align="center">
     <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="1000" />
