@@ -33,6 +33,10 @@
 <br>
 
 
+<p align="center">
+    <img src="./figs/CLIP_training_and_zero-shot.png" alt="CLIP_training_and_zero-shot" width="900" />
+</p>
+<br>
 
 
 ## Domain Generalization
