@@ -34,7 +34,7 @@
 
 
 <p align="center">
-    <img src="./figs/Closed-Partial-Open-set.png" alt="Closed, Partial, and Open Set" width="700" />
+    <img src="./figs/Closed-Partial-Open-set.png" alt="Closed, Partial, and Open Set" width="600" />
 </p>
 <br>
 
@@ -153,13 +153,209 @@
 2. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
 3. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
 
-<br>
-<br>
-<p align="center">
-    <img src="./figs/different-scenarios.png" alt="Different Scenarios" width="800" />
-</p>
-<br>
-<br>
+
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="3", colspan='3'>Scenario</th>
+      <th colspan="3">Pre-train in Source Domain</th>
+      <th colspan="2">Adapt in Target Domain</th>
+      <th colspan="4">Category between Source Domain and Target Domain</th>
+    </tr>
+    <tr>
+      <th colspan='2'>Source Domain</th>
+      <th rowspan='2'>Target Domain</th>
+      <th rowspan='2'>Source Domain Data</th>
+      <th rowspan='2'>Source Domain Knowledge</th>
+      <th rowspan='2'>Closed-Set</th>
+      <th rowspan='2'>Partial-Set</th>
+      <th rowspan='2'>Open-Set</th>
+      <th rowspan='2'>Open-Partial-Set</th>
+    </tr>
+    <tr>
+      <th>Single-Source</th>
+      <th>Multi-Souirce</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">DG</td>
+      <td rowspan='2'>Source-Available (SA)</td>
+      <td>Single-Source Domain Generalization (SS-DG)</td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Multi-Source Domain Generalization (MS-DG)</td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+      <td>Source-Free (SF)</td>
+      <td>Source-Free Domain Generalization (SF-DG)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    <tr>
+      <td rowspan="11">DA</td>
+      <td rowspan="4">Source-Available (SA)</td>
+      <td>Single-Source Closed-Set Unsupervised Domain Adaptation (SS-CSUDA)</td>
+      <td>✅</td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)</td>
+      <td>✅</td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Multi-Source Unsupervised Domain Adaptation (MS-UDA)</td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Multi-Source Few-Shot Domain Adaptation (MS-FSDA)</td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="7">Source-Free (SF)</td>
+      <td>Source-Fully-Free Closed-Set Unsupervised Domain Adaptation (SFF-CSUDA) a.k.a. Closed-Set Unsupervised Fine-Tuning (CS-UFT)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Source-Fully-Free Partial-Set Unsupervised Domain Adaptation (SFF-PSUDA) a.k.a. Partial-Set Unsupervised Fine-Tuning (PS-UFT)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Source-Fully-Free Open-Set Unsupervised Domain Adaptation (SFF-OSUDA) a.k.a. Open-Set Unsupervised Fine-Tuning (OS-UFT)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Source-Fully-Free Open-Partial-Set Unsupervised Domain Adaptation (SFF-OPSUDA) a.k.a. Open-Partial-Set Unsupervised Fine-Tuning (OPS-UFT)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Source-Data-Free Closed-Set Unsupervised Domain Adaptation (SDF-CSUDA)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Source-Data-Free Open-Set Unsupervised Domain Adaptation (SDF-OSUDA)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+      <td></td>
+      <td>✅</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 ## Challenges and Opportunities
 
