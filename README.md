@@ -180,8 +180,8 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">DG</td>
-      <td rowspan='2'>Source-Available (SA)</td>
+      <td rowspan="4">DG</td>
+      <td rowspan='3'>Source-Available (SA)</td>
       <td>Single-Source Domain Generalization (SS-DG)</td>
       <td>✅</td>
       <td></td>
@@ -194,14 +194,26 @@
       <td></td>
     </tr>
     <tr>
-      <td>Multi-Source Domain Generalization (MS-DG)</td>
+      <td>Multi-Source Closed-Set Domain Generalization (MS-CSDG)</td>
       <td></td>
       <td>✅</td>
       <td></td>
       <td></td>
       <td></td>
       <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Multi-Source Domain Open-Set Generalization (MS-OSDG)</td>
+      <td></td>
       <td>✅</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>✅</td>
       <td></td>
     </tr>
