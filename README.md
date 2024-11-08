@@ -218,7 +218,7 @@
       <td></td>
     </tr>
       <td>Source-Free (SF)</td>
-      <td>Source-Free Domain Generalization (SF-DG)</td>
+      <td>Source-(Fully)-Free Domain Generalization (S(F)F-DG)</td>
       <td></td>
       <td></td>
       <td></td>
