@@ -450,7 +450,7 @@
       <td><a href="https://www.image-net.org/download.php">https://www.image-net.org/download.php</a></td>
     </tr>
     <tr>
-      <td>imageNetV2</td>
+      <td>ImageNetV2</td>
       <td>1</td>
       <td>1000</td>
       <td>10,000</td>
