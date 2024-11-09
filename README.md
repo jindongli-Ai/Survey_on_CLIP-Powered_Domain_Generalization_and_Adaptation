@@ -367,6 +367,188 @@
 </table>
 
 
+## Datasets and Metrics
+
+### Common Datasets
+
+<table>
+  <thead>
+    <tr>
+      <th><b>Field</b></th>
+      <th><b>Dataset</b></th>
+      <th><b>#Domains</b></th>
+      <th><b>#Categories</b></th>
+      <th><b>#Images</b></th>
+      <th><b>Link</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="8"><b>Multi-domain Dataset</b></td>
+      <td>Office-Home</td>
+      <td>4</td>
+      <td>65</td>
+      <td>15,588</td>
+      <td><a href="https://faculty.cc.gatech.edu/~judy/domainadapt/">https://faculty.cc.gatech.edu/~judy/domainadapt/</a></td>
+    </tr>
+    <tr>
+      <td>Office-31</td>
+      <td>3</td>
+      <td>31</td>
+      <td>4,652</td>
+      <td><a href="https://www.hemanthdv.org/officeHomeDataset.html">https://www.hemanthdv.org/officeHomeDataset.html</a></td>
+    </tr>
+    <tr>
+      <td>VisDA-2017</td>
+      <td>2</td>
+      <td>12</td>
+      <td>280,000</td>
+      <td><a href="https://github.com/VisionLearningGroup/taskcv-2017-public">https://github.com/VisionLearningGroup/taskcv-2017-public</a></td>
+    </tr>
+    <tr>
+      <td>DomainNet</td>
+      <td>6</td>
+      <td>345</td>
+      <td>586,575</td>
+      <td><a href="https://ai.bu.edu/M3SDA/">https://ai.bu.edu/M3SDA/</a></td>
+    </tr>
+    <tr>
+      <td>PACS</td>
+      <td>4</td>
+      <td>7</td>
+      <td>9,991</td>
+      <td><a href="https://www.kaggle.com/datasets/nickfratto/pacs-dataset">https://www.kaggle.com/datasets/nickfratto/pacs-dataset</a></td>
+    </tr>
+    <tr>
+      <td>VLCS</td>
+      <td>4</td>
+      <td>5</td>
+      <td>10,729</td>
+      <td><a href="https://www.kaggle.com/datasets/iamjanvijay/vlcsdataset/data">https://www.kaggle.com/datasets/iamjanvijay/vlcsdataset/data</a></td>
+    </tr>
+    <tr>
+      <td>Digits-DG</td>
+      <td>4</td>
+      <td>10</td>
+      <td>24,000</td>
+      <td><a href="https://csip.fzu.edu.cn/files/datasets/SSDG/digits_dg.zip">https://csip.fzu.edu.cn/files/datasets/SSDG/digits_dg.zip</a></td>
+    </tr>
+    <tr>
+      <td>TerraIncognita</td>
+      <td>4</td>
+      <td>10</td>
+      <td>24,330</td>
+      <td><a href="https://beerys.github.io/CaltechCameraTraps/">https://beerys.github.io/CaltechCameraTraps/</a></td>
+    </tr>
+    <tr>
+      <td rowspan="17"><b>Single-domain Dataset</b></td>
+      <td>ImageNet</td>
+      <td>1</td>
+      <td>1000</td>
+      <td>1.28M</td>
+      <td><a href="https://www.image-net.org/download.php">https://www.image-net.org/download.php</a></td>
+    </tr>
+    <tr>
+      <td>imageNetV2</td>
+      <td>1</td>
+      <td>1000</td>
+      <td>10,000</td>
+      <td><a href="https://github.com/modestyachts/ImageNetV2">https://github.com/modestyachts/ImageNetV2</a></td>
+    </tr>
+    <tr>
+      <td>ImageNet-Sketch</td>
+      <td>1</td>
+      <td>1000</td>
+      <td>50,889</td>
+      <td><a href="https://github.com/HaohanWang/ImageNet-Sketch">https://github.com/HaohanWang/ImageNet-Sketch</a></td>
+    </tr>
+    <tr>
+      <td>ImageNet-A</td>
+      <td>1</td>
+      <td>200</td>
+      <td>7,500</td>
+      <td><a href="https://github.com/hendrycks/natural-adv-examples">https://github.com/hendrycks/natural-adv-examples</a></td>
+    </tr>
+    <tr>
+      <td>ImageNet-R</td>
+      <td>1</td>
+      <td>200</td>
+      <td>30,000</td>
+      <td><a href="https://github.com/hendrycks/imagenet-r">https://github.com/hendrycks/imagenet-r</a></td>
+    </tr>
+    <tr>
+      <td>CIFAR10</td>
+      <td>1</td>
+      <td>10</td>
+      <td>60,000</td>
+      <td><a href="https://www.cs.toronto.edu/~kriz/cifar.html">https://www.cs.toronto.edu/~kriz/cifar.html</a></td>
+    </tr>
+    <tr>
+      <td>CIFAR100</td>
+      <td>1</td>
+      <td>100</td>
+      <td>60,000</td>
+      <td><a href="https://www.cs.toronto.edu/~kriz/cifar.html">https://www.cs.toronto.edu/~kriz/cifar.html</a></td>
+    </tr>
+    <tr>
+      <td>Caltech101</td>
+      <td>1</td>
+      <td>100</td>
+      <td>8,242</td>
+      <td><a href="https://www.kaggle.com/datasets/imbikramsaha/caltech-101">https://www.kaggle.com/datasets/imbikramsaha/caltech-101</a></td>
+    </tr>
+    <tr>
+      <td>DTD</td>
+      <td>1</td>
+      <td>47</td>
+      <td>5,640</td>
+      <td><a href="https://www.robots.ox.ac.uk/~vgg/data/dtd/">https://www.robots.ox.ac.uk/~vgg/data/dtd/</a></td>
+    </tr>
+    <tr>
+      <td>EuroSAT</td>
+      <td>1</td>
+      <td>10</td>
+      <td>2,700</td>
+      <td><a href="https://www.kaggle.com/datasets/apollo2506/eurosat-dataset">https://www.kaggle.com/datasets/apollo2506/eurosat-dataset</a></td>
+    </tr>
+    <tr>
+      <td>FGVCAircraft</td>
+      <td>1</td>
+      <td>100</td>
+      <td>10,000</td>
+      <td><a href="https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/">https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/</a></td>
+    </tr>
+    <tr>
+      <td>Food101</td>
+      <td>1</td>
+      <td>101</td>
+      <td>101,000</td>
+      <td><a href="https://www.kaggle.com/datasets/dansbecker/food-101">https://www.kaggle.com/datasets/dansbecker/food-101</a></td>
+    </tr>
+    <tr>
+      <td>Flowers102</td>
+      <td>1</td>
+      <td>101</td>
+      <td>8,189</td>
+      <td><a href="https://www.kaggle.com/datasets/demonplus/flower-dataset-102">https://www.kaggle.com/datasets/demonplus/flower-dataset-102</a></td>
+    </tr>
+    <tr>
+      <td>OxfordPets</td>
+      <td>1</td>
+      <td>37</td>
+      <td>7,349</td>
+      <td><a href="https://www.robots.ox.ac.uk/~vgg/data/pets/">https://www.robots.ox.ac.uk/~vgg/data/pets/</a></td>
+    </tr>
+    <tr>
+      <td>StanfordCars</td>
+      <td>1</td>
+      <td>196</td>
+      <td>16,185</td>
+      <td><a href="https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset">https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ## Challenges and Opportunities
