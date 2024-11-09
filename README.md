@@ -371,6 +371,7 @@
 
 ### Common Datasets
 
+
 <table>
   <thead>
     <tr>
@@ -540,14 +541,30 @@
       <td><a href="https://www.robots.ox.ac.uk/~vgg/data/pets/">https://www.robots.ox.ac.uk/~vgg/data/pets/</a></td>
     </tr>
     <tr>
-      <td>StanfordCars</td>
+      <td>SUN397</td>
+      <td>1</td>
+      <td>397</td>
+      <td>39,700</td>
+      <td><a href="https://huggingface.co/datasets/1aurent/SUN397">https://huggingface.co/datasets/1aurent/SUN397</a></td>
+    </tr>
+    <tr>
+      <td>StandfordCars</td>
       <td>1</td>
       <td>196</td>
       <td>16,185</td>
-      <td><a href="https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset">https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset</a></td>
+      <td><a href="https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/data">https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/data</a></td>
+    </tr>
+    <tr>
+      <td>UCF101</td>
+      <td>1</td>
+      <td>101</td>
+      <td>13,320</td>
+      <td><a href="https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition">https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition</a></td>
     </tr>
   </tbody>
 </table>
+
+
 
 
 
