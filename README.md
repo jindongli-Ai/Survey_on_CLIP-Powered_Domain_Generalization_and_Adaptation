@@ -90,9 +90,9 @@
 10. [StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization](https://arxiv.org/abs/2302.09251)
 
 ##### Multi-Source Open-Set Domain Generalization (MS-OSDG)
-1. []()
-2. []()
-3. []()
+1. [CLIPood: Generalizing CLIP to Out-of-Distributions](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
+2. [Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
+3. [PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
 
 
 #### Source-Free (SF)
@@ -107,15 +107,18 @@
 ### Source-Available (SA)
 #### Single-Source (SS)
 ##### Source-Available Domain Adaptation (SA-DA)
-##### Single-Source Closed-Set Unsupervised Domain Adaptation (SS-UDA)
+##### Single-Source Closed-Set Unsupervised Domain Adaptation (SS-CSUDA)
 1. [PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10377727)
 2. [AD-CLIP: Adapting Domains in Prompt Space Using CLIP](https://ieeexplore.ieee.org/document/10351000)
 3. [Domain Adaptation via Prompt Learning](https://ieeexplore.ieee.org/document/10313995)
 4. [Prompt-based Distribution Alignment for Unsupervised Domain Adaptation](https://arxiv.org/abs/2312.09553v1)
-5. [Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation](https://arxiv.org/abs/2403.02899)
-6. [Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation](https://arxiv.org/abs/2403.06946v1)
-7. [Unsupervised Domain Adaption Harnessing Vision-Language Pre-training](https://arxiv.org/abs/2408.02192)
-8. [Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models](https://ieeexplore.ieee.org/document/10484237)
+5. [CLIP the Divergence: Language-guided Unsupervised Domain Adaptation](https://arxiv.org/abs/2407.01842)
+6. [Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation](https://arxiv.org/abs/2403.02899)
+7. [Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation](https://arxiv.org/abs/2403.06946v1)
+8. [CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization](https://ieeexplore.ieee.org/abstract/document/10650901)
+9. [Unsupervised Domain Adaption Harnessing Vision-Language Pre-training](https://arxiv.org/abs/2408.02192)
+10. [Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning](https://ieeexplore.ieee.org/abstract/document/10502168)
+11. [Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models](https://ieeexplore.ieee.org/document/10484237)
 
 ##### Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
 1. [Open-Set Domain Adaptation with Visual-Language Foundation Models](https://arxiv.org/abs/2307.16204)
@@ -138,11 +141,13 @@
 ##### Source-Fully-Free Closed-Set Unsupervised Domain Adaptation (SFF-CSUDA) a.k.a. Unsupervised Fine-Tuning (CS-UFT)
 1. [Unsupervised Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2204.03649)
 2. [POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models](https://arxiv.org/abs/2305.00350)
-3. [ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation](https://arxiv.org/abs/2308.03793)
-4. [LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections](https://arxiv.org/abs/2305.18287)
-5. [Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data](https://arxiv.org/abs/2406.10502)
-6. [DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models](https://arxiv.org/abs/2408.08855)
+3. [DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models](https://arxiv.org/abs/2408.08855)
+4. [Training-Free Unsupervised Prompt for Vision-Language Models](https://arxiv.org/abs/2404.16339)
+5. [Rethinking Domain Adaptation and Generalization in the Era Of CLIP](https://ieeexplore.ieee.org/abstract/document/10647766)
+6. [Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data](https://arxiv.org/abs/2406.10502)
 7. [Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization](https://arxiv.org/abs/2308.12919)
+8. [LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections](https://arxiv.org/abs/2305.18287)
+9. [ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation](https://arxiv.org/abs/2308.03793)
 
 
 ##### Source-Fully-Free Partial-Set Unsupervised Domain Adaptation (SFF-PSUDA) a.k.a. Partial-Set Unsupervised Fine-Tuning (PS-UFT)
@@ -156,7 +161,7 @@
 
 
 #### Source-Data-Free (SDF)
-##### Source-Data-Free Closed-Set Unsupervised Domain Adaptation (SDF-UDA)
+##### Source-Data-Free Closed-Set Unsupervised Domain Adaptation (SDF-CSUDA)
 1. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
 2. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
 3. [ata-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation](https://arxiv.org/abs/2410.15811)
