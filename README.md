@@ -385,7 +385,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="8"><b>Multi-domain Dataset</b></td>
+      <td rowspan="9"><b>Multi-domain Dataset</b></td>
       <td>Office-Home</td>
       <td>4</td>
       <td>65</td>
@@ -440,6 +440,13 @@
       <td>10</td>
       <td>24,330</td>
       <td><a href="https://beerys.github.io/CaltechCameraTraps/">https://beerys.github.io/CaltechCameraTraps/</a></td>
+    </tr>
+    <tr>
+      <td>NICO++</td>
+      <td>6</td>
+      <td>7</td>
+      <td>89,232</td>
+      <td><a href="https://github.com/xxgege/NICO-plus">https://github.com/xxgege/NICO-plus</a></td>
     </tr>
     <tr>
       <td rowspan="17"><b>Single-domain Dataset</b></td>
