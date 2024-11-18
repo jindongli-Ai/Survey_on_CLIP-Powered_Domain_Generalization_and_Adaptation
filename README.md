@@ -167,7 +167,8 @@
 ##### Source-Data-Free Closed-Set Unsupervised Domain Adaptation (SDF-CSUDA)
 1. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
 2. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
-3. [ata-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation](https://arxiv.org/abs/2410.15811)
+3. [Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation](https://arxiv.org/abs/2410.15811)
+4. [CLIP-guided black-box domain adaptation of image classification](https://link.springer.com/article/10.1007/s11760-024-03101-8)
 
 ##### Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)
 1. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
