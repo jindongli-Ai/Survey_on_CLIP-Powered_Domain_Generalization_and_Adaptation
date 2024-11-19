@@ -2,6 +2,20 @@
 
 ## Introduction
 
+
+<p align="center">
+    <img src="./figs/fig_1.png" alt="Structure" width="800" />
+</p>
+<br>
+<br>
+
+<p align="center">
+    <img src="./figs/roadmap.png" alt="Structure" width="900" />
+</p>
+<br>
+<br>
+
+
 <p align="center">
     <img src="./figs/structure.png" alt="Structure" width="750" />
 </p>
@@ -65,7 +79,7 @@
 ### CLIP is Adopted as Backbone or Encoder
 
 <p align="center">
-    <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="1000" />
+    <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="900" />
 </p>
 <br>
 
