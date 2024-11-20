@@ -6,13 +6,13 @@ The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Po
 
 
 <p align="center">
-    <img src="./figs/fig_1.png" alt="Structure" width="800" />
+    <img src="./figs/fig_1.png" alt="fig_1" width="800" />
 </p>
 <br>
 <br>
 
 <p align="center">
-    <img src="./figs/roadmap.png" alt="Structure" width="900" />
+    <img src="./figs/roadmap.png" alt="roadmap" width="900" />
 </p>
 <br>
 <br>
@@ -22,6 +22,12 @@ The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Po
     <img src="./figs/structure.png" alt="Structure" width="750" />
 </p>
 <br>
+<br>
+
+
+<p align="center">
+    <img src="./figs/TreeMap.png" alt="TreeMap" width="1200" />
+</p>
 <br>
 
 
@@ -612,8 +618,6 @@ The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Po
     </tr>
   </tbody>
 </table>
-
-
 
 
 
