@@ -1,6 +1,6 @@
 # A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond
 
-The official GitHub page for the survey paper "Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond".
+The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond".
 
 ## Introduction
 
