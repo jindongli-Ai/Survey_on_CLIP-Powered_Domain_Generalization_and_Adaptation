@@ -92,12 +92,16 @@ The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Po
 <br>
 
 #### Source-Available (SA)
-##### Single-Source Domain Generalization (SS-DG)
+##### Single-Source Closed-Set Domain Generalization (SS-CSDG)
 1. [Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.pdf)
-2. [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
-3. [StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization](https://arxiv.org/abs/2302.09251)
-4. [Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2404.19286)
-5. [Enhancing Vision-Language Models Generalization via Diversity-Driven Novel Feature Synthesis](https://arxiv.org/abs/2405.02586)
+2. [Distribution-Aware Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2309.03406)
+3. [Self-Regulating Prompts: Foundational Model Adaptation without Forgetting](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
+4. [GalLoP: Learning Global and Local Prompts for Vision-Language Models](https://arxiv.org/abs/2407.01400v1)
+5. [StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization](https://arxiv.org/abs/2302.09251)
+6. [Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2404.19286)
+7. [MMA: Multi-Modal Adapter for Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
+8. [Enhancing Vision-Language Models Generalization via Diversity-Driven Novel Feature Synthesis](https://arxiv.org/abs/2405.02586)
+9. [PromptSync: Bridging Domain Gaps in Vision-Language Models through Class-Aware Prototype Alignment and Discrimination](https://arxiv.org/abs/2404.07520)
 
 ##### Multi-Source Closed-Set Domain Generalization (MS-CSDG)
 1. [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](http://export.arxiv.org/abs/2309.12530)
@@ -118,7 +122,7 @@ The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Po
 
 
 #### Source-Free (SF)
-##### Source-Free Domain Generalization (SF-DG)
+##### Source(-Fully)-Free Domain Generalization (S(F)F-DG)
 1. [Domain-Unified Prompt Representations for Source-Free Domain Generalization](https://arxiv.org/abs/2209.14926)
 2. [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/abs/2307.15199)
 3. [DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization](https://arxiv.org/abs/2403.16697)
