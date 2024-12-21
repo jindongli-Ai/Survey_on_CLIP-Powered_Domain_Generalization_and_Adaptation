@@ -26,7 +26,7 @@ The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Po
 
 
 <p align="center">
-    <img src="./figs/TreeMap.png" alt="TreeMap" width="1200" />
+    <img src="./figs/sunburst.png" alt="sunburst" width="760" />
 </p>
 <br>
 
