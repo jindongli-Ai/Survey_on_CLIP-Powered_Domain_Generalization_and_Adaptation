@@ -82,7 +82,6 @@ The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Po
 4. [Maple: Multi-Modal Prompt Learning](https://arxiv.org/abs/2210.03117)
 5. [Prompt-aligned Gradient for Prompt Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)
 6. [LAMM: Label Alignment for Multi-Modal Prompt Learning](https://arxiv.org/abs/2312.08212)
-7. [Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
 
 ### CLIP is Adopted as Backbone or Encoder
 
@@ -101,7 +100,6 @@ The official GitHub page for the survey paper "A Comprehensive Survey on CLIP Po
 6. [Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2404.19286)
 7. [MMA: Multi-Modal Adapter for Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
 8. [Enhancing Vision-Language Models Generalization via Diversity-Driven Novel Feature Synthesis](https://arxiv.org/abs/2405.02586)
-9. [PromptSync: Bridging Domain Gaps in Vision-Language Models through Class-Aware Prototype Alignment and Discrimination](https://arxiv.org/abs/2404.07520)
 
 ##### Multi-Source Closed-Set Domain Generalization (MS-CSDG)
 1. [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](http://export.arxiv.org/abs/2309.12530)
