@@ -22,14 +22,14 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 <p align="center">
-    <img src="./figs/structure.png" alt="Structure" width="750" />
+    <img src="./figs/structure.png" alt="Structure" width="1000" />
 </p>
 <br>
 <br>
 
 
 <p align="center">
-    <img src="./figs/sunburst.png" alt="sunburst" width="760" />
+    <img src="./figs/sunburst.png" alt="sunburst" width="500" />
 </p>
 <br>
 
@@ -205,6 +205,14 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 1. [Open-Set Domain Adaptation with Visual-Language Foundation Models](https://arxiv.org/abs/2307.16204)
 2. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
 3. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
+
+
+
+<p align="center">
+    <img src="./figs/different-scenarios.png" alt="Different Scenarios" width="1000" />
+</p>
+<br>
+<br>
 
 
 
