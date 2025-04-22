@@ -2,6 +2,9 @@
 
 The official GitHub page for the survey paper "CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey".
 
+[https://arxiv.org/abs/2504.14280]
+
+
 ## Introduction
 
 
