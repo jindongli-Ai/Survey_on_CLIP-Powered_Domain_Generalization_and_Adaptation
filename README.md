@@ -5,6 +5,15 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 [https://arxiv.org/abs/2504.14280]
 
 
+
+<p align="center">
+    <img src="./figs/Title.png" alt="roadmap" width="700" />
+</p>
+<br>
+<br>
+
+
+
 ## Introduction
 
 
@@ -15,7 +24,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 <br>
 
 <p align="center">
-    <img src="./figs/roadmap.png" alt="roadmap" width="900" />
+    <img src="./figs/roadmap.png" alt="roadmap" width="700" />
 </p>
 <br>
 <br>
@@ -65,7 +74,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 <p align="center">
-    <img src="./figs/CLIP_training_and_zero-shot.png" alt="CLIP_training_and_zero-shot" width="1000" />
+    <img src="./figs/CLIP_training_and_zero-shot.png" alt="CLIP_training_and_zero-shot" width="800" />
 </p>
 <br>
 
@@ -89,7 +98,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ### CLIP is Adopted as Backbone or Encoder
 
 <p align="center">
-    <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="900" />
+    <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="800" />
 </p>
 <br>
 
@@ -215,6 +224,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 <br>
 
 
+<!--
 
 <table>
   <thead>
@@ -426,6 +436,8 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     </tr>
   </tbody>
 </table>
+
+-->
 
 
 ## Datasets and Metrics
