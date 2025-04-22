@@ -5,20 +5,18 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 [https://arxiv.org/abs/2504.14280]
 
 
-
+<br>
+<br>
 <p align="center">
-    <img src="./figs/Title.png" alt="roadmap" width="700" />
+    <img src="./figs/Title.png" alt="roadmap" width="900" />
 </p>
 <br>
-<br>
-
-
 
 ## Introduction
 
 
 <p align="center">
-    <img src="./figs/fig_1.png" alt="fig_1" width="850" />
+    <img src="./figs/fig_1.png" alt="fig_1" width="800" />
 </p>
 <br>
 <br>
@@ -81,7 +79,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ## Domain Generalization
 
-### Prompt Learning Optimization
+### Prompt Optimization Techniques
 
 <p align="center">
     <img src="./figs/CLIP-prompt-learning-optimization.png" alt="CLIP_training_and_zero-shot" width="700" />
@@ -142,7 +140,6 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ## Domain Adaptation
 ### Source-Available (SA)
 #### Single-Source (SS)
-##### Source-Available Domain Adaptation (SA-DA)
 ##### Single-Source Closed-Set Unsupervised Domain Adaptation (SS-CSUDA)
 1. [PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10377727)
 2. [AD-CLIP: Adapting Domains in Prompt Space Using CLIP](https://ieeexplore.ieee.org/document/10351000)
