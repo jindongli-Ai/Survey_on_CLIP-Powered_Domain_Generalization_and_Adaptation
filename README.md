@@ -649,4 +649,16 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ## Future Directions
 
+## 📖 Citation
+
+If you find this work helpful, please consider citing our paper:
+
+```bibtex
+@article{li2025clip,
+  title={CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey},
+  author={Li, Jindong and Li, Yongguang and Fu, Yali and Liu, Jiahong and Liu, Yixin and Yang, Menglin and King, Irwin},
+  journal={arXiv preprint arXiv:2504.14280},
+  year={2025}
+}
+
 
