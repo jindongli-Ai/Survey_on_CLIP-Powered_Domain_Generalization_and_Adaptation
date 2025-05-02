@@ -1,4 +1,6 @@
-# CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey
+<div align="center">
+    <h1><b>CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b></h1>
+</div>
 
 The official GitHub page for the survey paper "CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey".
 
