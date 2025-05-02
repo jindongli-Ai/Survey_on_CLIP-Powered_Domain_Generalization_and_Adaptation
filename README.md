@@ -678,5 +678,3 @@ If you find this work helpful, please consider citing our paper:
   journal={arXiv preprint arXiv:2504.14280},
   year={2025}
 }
-
-
