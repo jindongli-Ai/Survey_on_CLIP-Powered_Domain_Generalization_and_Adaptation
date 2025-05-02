@@ -234,6 +234,10 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     <img src="./figs/different-scenarios.png" alt="Different Scenarios" width="1000" />
 </p>
 <br>
+
+<p align="center">
+    <img src="./figs/benchmark.png" alt="Different Scenarios" width="920" />
+</p>
 <br>
 
 
