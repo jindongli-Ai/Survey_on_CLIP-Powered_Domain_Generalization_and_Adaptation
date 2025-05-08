@@ -20,7 +20,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 [arXiv][https://arxiv.org/abs/2504.14280]
 </div>
 <div align="center">
-[机器之心](https://www.jiqizhixin.com/articles/2025-05-06-5)
+[机器之心][https://www.jiqizhixin.com/articles/2025-05-06-5]
 </div>
 
 
