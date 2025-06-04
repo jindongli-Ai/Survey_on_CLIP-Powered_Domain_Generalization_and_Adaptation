@@ -11,7 +11,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ![](https://img.shields.io/github/forks/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=lightblue)
 ![](https://img.shields.io/github/last-commit/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="https://arxiv.org/abs/2504.14280" target="_blank"><img src="https://img.shields.io/badge/arXiv-2410.19744-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2504.14280" target="_blank"><img src="https://img.shields.io/badge/arXiv-2504.14280-009688.svg" alt="arXiv"></a>
 
 </div>
 
