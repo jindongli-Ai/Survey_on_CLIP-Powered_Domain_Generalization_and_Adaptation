@@ -343,7 +343,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ##### 4.1.2.3 Multi-Source Few-Shot Domain Adaptation (MS-FSDA)
 
 1. 2024_OpenReview_MSDPL_Domain Prompt Matters a Lot in Multi-Source Few-Shot Domain Adaptation.
-    [[arXiv]](https://openreview.net/forum?id=YRJDZYGmAZ)
+    [[OpenReview]](https://openreview.net/forum?id=YRJDZYGmAZ)
 
 
 
