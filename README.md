@@ -213,9 +213,12 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 ##### 3.2.1.3 Multi-Source Open-Set Domain Generalization (MS-OSDG)
-1. [CLIPood: Generalizing CLIP to Out-of-Distributions](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
-2. [Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
-3. [PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
+1. CLIPood: Generalizing CLIP to Out-of-Distributions.
+   [[]](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
+3. Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
+   [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
+5. PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization.
+   [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
 
 
 #### 3.2.2 Source-Free (SF)
