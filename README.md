@@ -106,12 +106,24 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 </p>
 <br>
 
-1. [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134)
-2. [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557)
-3. [Visual-Language Prompt Tuning with Knowledge-Guided Context Optimization](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf)
-4. [Maple: Multi-Modal Prompt Learning](https://arxiv.org/abs/2210.03117)
-5. [Prompt-aligned Gradient for Prompt Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)
-6. [LAMM: Label Alignment for Multi-Modal Prompt Learning](https://arxiv.org/abs/2312.08212)
+1. 2022_CVPR_Conditional Prompt Learning for Vision-Language Models.
+    [arXiv](https://arxiv.org/abs/2203.05557)
+
+2. 2022_IJCV_Learning to Prompt for Vision-Language Models.
+    [arXiv](https://arxiv.org/abs/2109.01134)
+   
+3. 2023_CVPR_KgCoOp_Visual-Language Prompt Tuning with Knowledge-Guided Context Optimization.
+    [arXiv](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf)
+   
+4. 2023_CVPR_MaPLe_MaPLe: Multi-Modal Prompt Learning.
+    [arXiv](https://arxiv.org/abs/2210.03117)
+   
+5. 2023_ICCV_ProGrad_Prompt-aligned Gradient for Prompt Tuning.
+    [arXiv](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)
+
+6. 2024_AAAI_LAMM_LAMM: Label Alignment for Multi-Modal Prompt Learning.
+    [arXiv](https://arxiv.org/abs/2312.08212)
+    
 
 ### CLIP is Adopted as Backbone or Encoder
 
@@ -119,6 +131,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     <img src="./figs/fig_10.png" alt="CLIP_training_and_zero-shot" width="800" />
 </p>
 <br>
+
 
 #### Source-Available (SA)
 ##### Single-Source Closed-Set Domain Generalization (SS-CSDG)
