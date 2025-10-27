@@ -189,7 +189,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
    [[IEEE]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716475)
    
 5. 2024_AIEA_Mix-up Loss_Robust Domain Generalization for Multi-modal Object Recognition.
-   [[arXiv]](https://arxiv.org/pdf/2408.05831)
+   [[arXiv]](https://arxiv.org/abs/2408.05831)
    
 6. 2024_CVPR_Any-Shift Prompting_Any-Shift Prompting for Generalization over Distributions.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Any-Shift_Prompting_for_Generalization_over_Distributions_CVPR_2024_paper.pdf)
