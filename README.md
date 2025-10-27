@@ -36,13 +36,13 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 <p align="center">
-    <img src="./figs/fig_1.png" alt="fig_1" width="700" />
+    <img src="./figs/fig_1.png" alt="fig_1" width="600" />
 </p>
 <br>
 <br>
 
 <p align="center">
-    <img src="./figs/fig_2.png" alt="structure" width="700" />
+    <img src="./figs/fig_2.png" alt="structure" width="900" />
 </p>
 <br>
 <br>
