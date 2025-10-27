@@ -36,7 +36,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 <p align="center">
-    <img src="./figs/fig_1.png" alt="fig_1" width="800" />
+    <img src="./figs/fig_1.png" alt="fig_1" width="700" />
 </p>
 <br>
 <br>
@@ -239,8 +239,17 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 </p>
 <br>
 
+
+
 <p align="center">
-    <img src="./figs/benchmark.png" alt="Different Scenarios" width="920" />
+    <img src="./figs/tab_3.png" alt="different scenarios" width="920" />
+</p>
+<br>
+
+
+
+<p align="center">
+    <img src="./figs/tab_3.png" alt="benchmark" width="920" />
 </p>
 <br>
 
