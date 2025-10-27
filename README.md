@@ -113,13 +113,13 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2109.01134)
    
 3. 2023_CVPR_KgCoOp_Visual-Language Prompt Tuning with Knowledge-Guided Context Optimization.
-    [[arXiv]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf)
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf)
    
 4. 2023_CVPR_MaPLe_MaPLe: Multi-Modal Prompt Learning.
     [[arXiv]](https://arxiv.org/abs/2210.03117)
    
 5. 2023_ICCV_ProGrad_Prompt-aligned Gradient for Prompt Tuning.
-    [[arXiv]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)
+    [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)
 
 6. 2024_AAAI_LAMM_LAMM: Label Alignment for Multi-Modal Prompt Learning.
     [[arXiv]](https://arxiv.org/abs/2312.08212)
