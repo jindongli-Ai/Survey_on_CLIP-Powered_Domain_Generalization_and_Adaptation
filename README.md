@@ -32,7 +32,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 </p>
 <br>
 
-## Introduction
+## 1. Introduction
 
 
 <p align="center">
@@ -61,7 +61,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 <br>
 
 
-## Preliminaries
+## 2. Preliminaries
 
 
 <p align="center">
@@ -97,9 +97,9 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 <br>
 
 
-## Domain Generalization
+## 3. Domain Generalization
 
-### Prompt Optimization Techniques
+### 3.1 Prompt Optimization Techniques
 
 <p align="center">
     <img src="./figs/fig_9.png" alt="CLIP_training_and_zero-shot" width="700" />
@@ -125,7 +125,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2312.08212)
     
 
-### CLIP is Adopted as Backbone or Encoder
+### 3.2 CLIP is Adopted as Backbone or Encoder
 
 <p align="center">
     <img src="./figs/fig_10.png" alt="CLIP_training_and_zero-shot" width="800" />
@@ -133,8 +133,8 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 <br>
 
 
-#### Source-Available (SA)
-##### Single-Source Closed-Set Domain Generalization (SS-CSDG)
+#### 3.2.1 Source-Available (SA)
+##### 3.2.1.1 Single-Source Closed-Set Domain Generalization (SS-CSDG)
 
 1. 2023_ICCV_BorLan_Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm.
    [[arXiv]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.pdf)
@@ -178,7 +178,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
-##### Multi-Source Closed-Set Domain Generalization (MS-CSDG)
+##### 3.2.1.2 Multi-Source Closed-Set Domain Generalization (MS-CSDG)
 1. [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](http://export.arxiv.org/abs/2309.12530)
 2. [Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains](https://www.jstage.jst.go.jp/article/tjsai/38/6/38_38-6_B-MC2/_pdf)
 3. [Consistent Augmentation Learning for Generalizing CLIP to Unseen Domains](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716475)
@@ -190,13 +190,14 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 9. [Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification](https://cvpr.thecvf.com/virtual/2024/poster/31364)
 10. [StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization](https://arxiv.org/abs/2302.09251)
 
-##### Multi-Source Open-Set Domain Generalization (MS-OSDG)
+
+##### 3.2.1.3 Multi-Source Open-Set Domain Generalization (MS-OSDG)
 1. [CLIPood: Generalizing CLIP to Out-of-Distributions](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
 2. [Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
 3. [PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
 
 
-#### Source-Free (SF)
+#### 3.2.2 Source-Free (SF)
 ##### Source(-Fully)-Free Domain Generalization (S(F)F-DG)
 1. [Domain-Unified Prompt Representations for Source-Free Domain Generalization](https://arxiv.org/abs/2209.14926)
 2. [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/abs/2307.15199)
@@ -204,10 +205,10 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 4. [PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization](https://arxiv.org/abs/2409.14163)
 
 
-## Domain Adaptation
-### Source-Available (SA)
-#### Single-Source (SS)
-##### Single-Source Closed-Set Unsupervised Domain Adaptation (SS-CSUDA)
+## 4. Domain Adaptation
+### 4.1 Source-Available (SA)
+#### 4.1.1 Single-Source (SS)
+##### 4.1.1.1 Single-Source Closed-Set Unsupervised Domain Adaptation (SS-CSUDA)
 1. [PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10377727)
 2. [AD-CLIP: Adapting Domains in Prompt Space Using CLIP](https://ieeexplore.ieee.org/document/10351000)
 3. [Domain Adaptation via Prompt Learning](https://ieeexplore.ieee.org/document/10313995)
@@ -221,27 +222,29 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 11. [Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning](https://ieeexplore.ieee.org/abstract/document/10502168)
 12. [Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models](https://ieeexplore.ieee.org/document/10484237)
 
-##### Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
+##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
 1. [Open-Set Domain Adaptation with Visual-Language Foundation Models](https://arxiv.org/abs/2307.16204)
 2. [Decoupling Domain Invariance and Variance With Tailored Prompts for Open-Set Domain Adaptation](https://ieeexplore.ieee.org/document/10647719)
 3. [COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation](https://arxiv.org/abs/2409.00397v1)
 
 
-#### Multi-Source (MS)
-##### Multi-Source Closed-Set Unsupervised Domain Adaptation (MS-CSUDA)
+#### 4.1.2 Multi-Source (MS)
+##### 4.1.2.1 Multi-Source Closed-Set Unsupervised Domain Adaptation (MS-CSUDA)
 1. [Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation](https://arxiv.org/abs/2209.15210)
 2. [LanDA: Language-Guided Multi-Source Domain Adaptation](https://arxiv.org/abs/2401.14148)
 
-##### Multi-Source Open-Partial-Set Unsupervised Domain Adaptation (MS-OPSUDA) a.k.a. Universal Multi-Source Domain Adaptation (UniMDA)
+##### 4.1.2.2 Multi-Source Open-Partial-Set Unsupervised Domain Adaptation (MS-OPSUDA) a.k.a. Universal Multi-Source Domain Adaptation (UniMDA)
 1. [Semantic-Aware Adaptive Prompt Learning for Universal Multi-Source Domain Adaptation](https://ieeexplore.ieee.org/document/10502133)
 
-##### Multi-Source Few-Shot Domain Adaptation (MS-FSDA)
+##### 4.1.2.3 Multi-Source Few-Shot Domain Adaptation (MS-FSDA)
 1. [Domain Prompt Matters a Lot in Multi-Source Few-Shot Domain Adaptation](https://openreview.net/forum?id=YRJDZYGmAZ)
 
 
-### Source-Free (SF)
-#### Source-Fully-Free (SFF)
-##### Source-Fully-Free Closed-Set Unsupervised Domain Adaptation (SFF-CSUDA) a.k.a. Unsupervised Fine-Tuning (CS-UFT)
+
+
+### 4.2 Source-Free (SF)
+#### 4.2.1 Source-Fully-Free (SFF)
+##### 4.2.1.1 Source-Fully-Free Closed-Set Unsupervised Domain Adaptation (SFF-CSUDA) a.k.a. Unsupervised Fine-Tuning (CS-UFT)
 1. [Unsupervised Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2204.03649)
 2. [POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models](https://arxiv.org/abs/2305.00350)
 3. [DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models](https://arxiv.org/abs/2408.08855)
@@ -253,28 +256,30 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 9. [ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation](https://arxiv.org/abs/2308.03793)
 
 
-##### Source-Fully-Free Partial-Set Unsupervised Domain Adaptation (SFF-PSUDA) a.k.a. Partial-Set Unsupervised Fine-Tuning (PS-UFT)
+
+##### 4.2.1.2 Source-Fully-Free Partial-Set Unsupervised Domain Adaptation (SFF-PSUDA) a.k.a. Partial-Set Unsupervised Fine-Tuning (PS-UFT)
 1. [Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization](https://arxiv.org/abs/2308.12919)
 
-##### Source-Fully-Free Open-Set Unsupervised Domain Adaptation (SFF-OSUDA) a.k.a. Open-Set Unsupervised Fine-Tuning (OS-UFT)
+##### 4.2.1.3 Source-Fully-Free Open-Set Unsupervised Domain Adaptation (SFF-OSUDA) a.k.a. Open-Set Unsupervised Fine-Tuning (OS-UFT)
 1. [Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization](https://arxiv.org/abs/2308.12919)
 
-##### Source-Fully-Free Open-Partial-Set Unsupervised Domain Adaptation (SFF-OPSUDA) a.k.a Open-Partial-Set Unsupervised Fine-Tuning (OPS-UFT)
+##### 4.2.1.4 Source-Fully-Free Open-Partial-Set Unsupervised Domain Adaptation (SFF-OPSUDA) a.k.a Open-Partial-Set Unsupervised Fine-Tuning (OPS-UFT)
 1. [Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization](https://arxiv.org/abs/2308.12919)
 
 
-#### Source-Data-Free (SDF)
-##### Source-Data-Free Closed-Set Unsupervised Domain Adaptation (SDF-CSUDA)
+
+#### 4.2.2 Source-Data-Free (SDF)
+##### 4.2.2.1 Source-Data-Free Closed-Set Unsupervised Domain Adaptation (SDF-CSUDA)
 1. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
 2. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
 3. [Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation](https://arxiv.org/abs/2410.15811)
 4. [CLIP-guided black-box domain adaptation of image classification](https://link.springer.com/article/10.1007/s11760-024-03101-8)
 
-##### Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)
+##### 4.2.2.2 Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)
 1. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
 2. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
 
-##### Source-Data-Free Open-Set Unsupervised Domain Adaptation (SDF-OSUDA)
+##### 4.2.2.3 Source-Data-Free Open-Set Unsupervised Domain Adaptation (SDF-OSUDA)
 1. [Open-Set Domain Adaptation with Visual-Language Foundation Models](https://arxiv.org/abs/2307.16204)
 2. [Source-Free Domain Adaptation with Frozen Multimodal Foundation Model](https://ieeexplore.ieee.org/document/10654933)
 3. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
