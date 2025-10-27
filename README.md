@@ -394,20 +394,24 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 4.2.1.2 Source-Fully-Free Partial-Set Unsupervised Domain Adaptation (SFF-PSUDA) a.k.a. Partial-Set Unsupervised Fine-Tuning (PS-UFT)
 
-1. Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+1. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
 
 
 
 ##### 4.2.1.3 Source-Fully-Free Open-Set Unsupervised Domain Adaptation (SFF-OSUDA) a.k.a. Open-Set Unsupervised Fine-Tuning (OS-UFT)
-1. Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+
+1. 2023_ICML Workshop_UOTA_UOTA: Unsupervised Open-Set Task Adaptation Using a Vision-Language Foundation Model.
+   [[ICML]](https://icml.cc/virtual/2023/28284)
+
+2. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
 
 
 
 ##### 4.2.1.4 Source-Fully-Free Open-Partial-Set Unsupervised Domain Adaptation (SFF-OPSUDA) a.k.a Open-Partial-Set Unsupervised Fine-Tuning (OPS-UFT)
 
-1. Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+1. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
 
 
@@ -417,19 +421,16 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 4.2.2.1 Source-Data-Free Closed-Set Unsupervised Domain Adaptation (SDF-CSUDA)
 
-1. Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
-    [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
-
-
-2. Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
-    [[arXiv]](https://arxiv.org/abs/2405.02954)
-
-
-3. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation.
+1. 2024_arXiv_CDBN_Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2410.15811)
 
+2. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
+    [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
 
-4. CLIP-guided black-box domain adaptation of image classification.
+3. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
+    [[arXiv]](https://arxiv.org/abs/2405.02954)
+
+4. 2024_Signal-Image-and-Video-Processing_BBC_CLIP-guided Black-Box Domain Adaptation of Image Classification.
     [[Springer]](https://link.springer.com/article/10.1007/s11760-024-03101-8)
 
 
@@ -437,11 +438,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 4.2.2.2 Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)
 
-1. Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
+1. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
     [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
 
 
-2. Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
+2. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
     [[arXiv]](https://arxiv.org/abs/2405.02954)
 
 
@@ -449,15 +450,15 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 4.2.2.3 Source-Data-Free Open-Set Unsupervised Domain Adaptation (SDF-OSUDA)
 
-1. Open-Set Domain Adaptation with Visual-Language Foundation Models.
+1. 2023_arXiv_ODA with CLIP_Open-Set Domain Adaptation with Visual-Language Foundation Models.
     [[arXiv]](https://arxiv.org/abs/2307.16204)
 
 
-2. Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
+2. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
    [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
 
 
-3. Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
+3. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
    [[arXiv]](https://arxiv.org/abs/2405.02954)
 
 
