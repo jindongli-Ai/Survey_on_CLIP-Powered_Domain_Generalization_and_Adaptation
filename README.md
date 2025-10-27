@@ -137,7 +137,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ##### 3.2.1.1 Single-Source Closed-Set Domain Generalization (SS-CSDG)
 
 1. 2023_ICCV_BorLan_Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm.
-   [[arXiv]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.pdf)
+   [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.pdf)
 
 
 2. 2023_ICCV_DAPT_Distribution-Aware Prompt Tuning for Vision-Language Models.
@@ -145,7 +145,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 3. 2023_ICCV_PromptSRC_Self-Regulating Prompts: Foundational Model Adaptation without Forgetting.
-   [[arXiv]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
+   [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
 
 
 4. 2024_arXiv_GalLoP_GalLoP: Learning Global and Local Prompts for Vision-Language Models.
@@ -161,7 +161,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 7. 2024_CVPR_MMA_MMA: Multi-Modal Adapter for Vision-Language Models.
-    [[arXiv]](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
 
 
 8. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
@@ -179,16 +179,37 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 ##### 3.2.1.2 Multi-Source Closed-Set Domain Generalization (MS-CSDG)
-1. [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](http://export.arxiv.org/abs/2309.12530)
-2. [Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains](https://www.jstage.jst.go.jp/article/tjsai/38/6/38_38-6_B-MC2/_pdf)
-3. [Consistent Augmentation Learning for Generalizing CLIP to Unseen Domains](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716475)
-4. [Robust Domain Generalization for Multi-modal Object Recognition](https://arxiv.org/pdf/2408.05831)
-5. [Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2404.19286)
-6. [Any-Shift Prompting for Generalization over Distributions](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Any-Shift_Prompting_for_Generalization_over_Distributions_CVPR_2024_paper.pdf)
-7. [Disentangled Prompt Representation for Domain Generalization](https://ieeexplore.ieee.org/abstract/document/10655401)
-8. [Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
-9. [Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification](https://cvpr.thecvf.com/virtual/2024/poster/31364)
-10. [StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization](https://arxiv.org/abs/2302.09251)
+
+1. A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance.
+    [[arXiv]](http://export.arxiv.org/abs/2309.12530)
+   
+2. Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains.
+    [[Jstage]](https://www.jstage.jst.go.jp/article/tjsai/38/6/38_38-6_B-MC2/_pdf)
+
+3. Consistent Augmentation Learning for Generalizing CLIP to Unseen Domains.
+   [[IEEE]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716475)
+   
+4. Robust Domain Generalization for Multi-modal Object Recognition.
+   [[arXiv]](https://arxiv.org/pdf/2408.05831)
+   
+5. Soft Prompt Generation for Domain Generalization.
+    [[arXiv]](https://arxiv.org/abs/2404.19286)
+   
+6. Any-Shift Prompting for Generalization over Distributions.
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Any-Shift_Prompting_for_Generalization_over_Distributions_CVPR_2024_paper.pdf)
+    
+7. Disentangled Prompt Representation for Domain Generalization.
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10655401)
+   
+8. Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
+    
+10. Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification.
+    [[CVPR]](https://cvpr.thecvf.com/virtual/2024/poster/31364)
+
+11. StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
+    [[arXiv]](https://arxiv.org/abs/2302.09251)
+
 
 
 ##### 3.2.1.3 Multi-Source Open-Set Domain Generalization (MS-OSDG)
