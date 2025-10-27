@@ -107,22 +107,22 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 <br>
 
 1. 2022_CVPR_Conditional Prompt Learning for Vision-Language Models.
-    [arXiv](https://arxiv.org/abs/2203.05557)
+    [[arXiv]](https://arxiv.org/abs/2203.05557)
 
 2. 2022_IJCV_Learning to Prompt for Vision-Language Models.
-    [arXiv](https://arxiv.org/abs/2109.01134)
+    [[arXiv]](https://arxiv.org/abs/2109.01134)
    
 3. 2023_CVPR_KgCoOp_Visual-Language Prompt Tuning with Knowledge-Guided Context Optimization.
-    [arXiv](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf)
+    [[arXiv]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf)
    
 4. 2023_CVPR_MaPLe_MaPLe: Multi-Modal Prompt Learning.
-    [arXiv](https://arxiv.org/abs/2210.03117)
+    [[arXiv]](https://arxiv.org/abs/2210.03117)
    
 5. 2023_ICCV_ProGrad_Prompt-aligned Gradient for Prompt Tuning.
-    [arXiv](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)
+    [[arXiv]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)
 
 6. 2024_AAAI_LAMM_LAMM: Label Alignment for Multi-Modal Prompt Learning.
-    [arXiv](https://arxiv.org/abs/2312.08212)
+    [[arXiv]](https://arxiv.org/abs/2312.08212)
     
 
 ### CLIP is Adopted as Backbone or Encoder
@@ -135,14 +135,48 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 #### Source-Available (SA)
 ##### Single-Source Closed-Set Domain Generalization (SS-CSDG)
-1. [Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.pdf)
-2. [Distribution-Aware Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2309.03406)
-3. [Self-Regulating Prompts: Foundational Model Adaptation without Forgetting](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
-4. [GalLoP: Learning Global and Local Prompts for Vision-Language Models](https://arxiv.org/abs/2407.01400v1)
-5. [StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization](https://arxiv.org/abs/2302.09251)
-6. [Soft Prompt Generation for Domain Generalization](https://arxiv.org/abs/2404.19286)
-7. [MMA: Multi-Modal Adapter for Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
-8. [Enhancing Vision-Language Models Generalization via Diversity-Driven Novel Feature Synthesis](https://arxiv.org/abs/2405.02586)
+
+1. 2023_ICCV_BorLan_Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm.
+   [[arXiv]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.pdf)
+
+
+2. 2023_ICCV_DAPT_Distribution-Aware Prompt Tuning for Vision-Language Models.
+   [[arXiv]](https://arxiv.org/abs/2309.03406)
+
+
+3. 2023_ICCV_PromptSRC_Self-Regulating Prompts: Foundational Model Adaptation without Forgetting.
+   [[arXiv]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
+
+
+4. 2024_arXiv_GalLoP_GalLoP: Learning Global and Local Prompts for Vision-Language Models.
+   [[arXiv]](https://arxiv.org/abs/2407.01400v1)
+
+
+5. 2024_arXiv_LDFS_Enhancing Vision-Language Models Generalization via Diversity-Driven Novel Feature Synthesis.
+    [[arXiv]](https://arxiv.org/abs/2405.02586)
+
+
+6. 2024_arXiv_SPG_Soft Prompt Generation for Domain Generalization.
+    [[arXiv]](https://arxiv.org/abs/2404.19286)
+
+
+7. 2024_CVPR_MMA_MMA: Multi-Modal Adapter for Vision-Language Models.
+    [[arXiv]](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
+
+
+8. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
+    [[arXiv]](https://arxiv.org/abs/2302.09251)
+
+
+
+
+
+
+
+
+
+
+
 
 ##### Multi-Source Closed-Set Domain Generalization (MS-CSDG)
 1. [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](http://export.arxiv.org/abs/2309.12530)
