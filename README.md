@@ -42,14 +42,14 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 <br>
 
 <p align="center">
-    <img src="./figs/roadmap.png" alt="roadmap" width="700" />
+    <img src="./figs/fig_2.png" alt="structure" width="700" />
 </p>
 <br>
 <br>
 
 
 <p align="center">
-    <img src="./figs/structure.png" alt="Structure" width="1000" />
+    <img src="./figs/fig_3.png" alt="roadmap" width="1000" />
 </p>
 <br>
 <br>
@@ -65,34 +65,34 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 <p align="center">
-    <img src="./figs/DG-and-DA.png" alt="Domain Generalization and Adaptation" width="700" />
+    <img src="./figs/fig_4.png" alt="Domain Generalization and Adaptation" width="700" />
 </p>
 <br>
 <br>
 
 
 <p align="center">
-    <img src="./figs/SA.png" alt="Source Available" width="700" />
+    <img src="./figs/fig_5.png" alt="Source Available" width="700" />
 </p>
 <br>
 <br>
 
 
 <p align="center">
-    <img src="./figs/SF.png" alt="Source Free" width="700" />
+    <img src="./figs/fig_6.png" alt="Source Free" width="700" />
 </p>
 <br>
 <br>
 
 
 <p align="center">
-    <img src="./figs/Closed-Partial-Open-set.png" alt="Closed, Partial, and Open Set" width="600" />
+    <img src="./figs/fig_7.png" alt="Closed, Partial, and Open Set" width="600" />
 </p>
 <br>
 
 
 <p align="center">
-    <img src="./figs/CLIP_training_and_zero-shot.png" alt="CLIP_training_and_zero-shot" width="800" />
+    <img src="./figs/fig_8.png" alt="CLIP_training_and_zero-shot" width="800" />
 </p>
 <br>
 
@@ -102,7 +102,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ### Prompt Optimization Techniques
 
 <p align="center">
-    <img src="./figs/CLIP-prompt-learning-optimization.png" alt="CLIP_training_and_zero-shot" width="700" />
+    <img src="./figs/fig_9.png" alt="CLIP_training_and_zero-shot" width="700" />
 </p>
 <br>
 
@@ -116,7 +116,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ### CLIP is Adopted as Backbone or Encoder
 
 <p align="center">
-    <img src="./figs/CLIP-as-backbone-or-encoder.png" alt="CLIP_training_and_zero-shot" width="800" />
+    <img src="./figs/fig_10.png" alt="CLIP_training_and_zero-shot" width="800" />
 </p>
 <br>
 
@@ -235,7 +235,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 <p align="center">
-    <img src="./figs/different-scenarios.png" alt="Different Scenarios" width="1000" />
+    <img src="./figs/fig_11.png" alt="Different Scenarios" width="1000" />
 </p>
 <br>
 
