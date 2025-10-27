@@ -174,69 +174,71 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
-
-
-
-
 ##### 3.2.1.2 Multi-Source Closed-Set Domain Generalization (MS-CSDG)
 
-1. A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance.
+1. 2023_ICCV_RISE_A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance.
     [[arXiv]](http://export.arxiv.org/abs/2309.12530)
    
-2. Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains.
+2. 2023_TJSAI_DPL_Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains.
     [[Jstage]](https://www.jstage.jst.go.jp/article/tjsai/38/6/38_38-6_B-MC2/_pdf)
 
-3. Consistent Augmentation Learning for Generalizing CLIP to Unseen Domains.
+3. 2024_arXiv_SPG_Soft Prompt Generation for Domain Generalization.
+    [[arXiv]](https://arxiv.org/abs/2404.19286)
+
+4. 2024_Access_CAL_Consistent Augmentation Learning for Generalizing CLIP to Unseen Domains.
    [[IEEE]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716475)
    
-4. Robust Domain Generalization for Multi-modal Object Recognition.
+5. 2024_AIEA_Mix-up Loss_Robust Domain Generalization for Multi-modal Object Recognition.
    [[arXiv]](https://arxiv.org/pdf/2408.05831)
    
-5. Soft Prompt Generation for Domain Generalization.
-    [[arXiv]](https://arxiv.org/abs/2404.19286)
-   
-6. Any-Shift Prompting for Generalization over Distributions.
+6. 2024_CVPR_Any-Shift Prompting_Any-Shift Prompting for Generalization over Distributions.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Any-Shift_Prompting_for_Generalization_over_Distributions_CVPR_2024_paper.pdf)
     
-7. Disentangled Prompt Representation for Domain Generalization.
+7. 2024_CVPR_DPR_Disentangled Prompt Representation for Domain Generalization.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10655401)
    
-8. Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
+8. 2024_CVPR_ODG-CLIP_Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
     
-10. Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification.
+10. 2024_CVPR_VL2V-ADiP_Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification.
     [[CVPR]](https://cvpr.thecvf.com/virtual/2024/poster/31364)
 
-11. StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
+11. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2302.09251)
 
 
 
 ##### 3.2.1.3 Multi-Source Open-Set Domain Generalization (MS-OSDG)
-1. CLIPood: Generalizing CLIP to Out-of-Distributions.
-   [[]](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
-3. Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
+
+1. 2023_ICML_CLIPood: Generalizing CLIP to Out-of-Distributions.
+   [[ICML]](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
+
+   
+2. 2024_CVPR_ODG-CLIP_Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
-5. PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization.
+
+   
+3. 2024_CVPR_SCI-PD_PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization.
    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
+
 
 
 #### 3.2.2 Source-Free (SF)
 ##### Source(-Fully)-Free Domain Generalization (S(F)F-DG)
 
-1. Domain-Unified Prompt Representations for Source-Free Domain Generalization.
+1. 2022_arXiv_DUPRG_Domain-Unified Prompt Representations for Source-Free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2209.14926)
 
 
-2. PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization.
+2. 2023_ICCV_PromptStyler_PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2307.15199)
 
 
-3. DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization.
+3. 2024_arXiv_DPStyler_DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2403.16697)
 
 
-4. PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
+4. 2024_arXiv_PromptTA__PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2409.14163)
 
 
@@ -248,87 +250,99 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 #### 4.1.1 Single-Source (SS)
 
 ##### 4.1.1.1 Single-Source Closed-Set Unsupervised Domain Adaptation (SS-CSUDA)
-1. PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation.
+
+1. 2023_ICCV_PADCLIP_PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/document/10377727)
 
 
-2. AD-CLIP: Adapting Domains in Prompt Space Using CLIP.
+2. 2023_ICCVW_AD-CLIP_AD-CLIP: Adapting Domains in Prompt Space Using CLIP.
     [[IEEE]](https://ieeexplore.ieee.org/document/10351000)
 
  
-3. Domain Adaptation via Prompt Learning.
+3. 2023_TNNLS_Domain Adaptation via Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/document/10313995)
 
 
-4. Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
-    [[arXiv]](https://arxiv.org/abs/2312.09553v1)
-
-
-5. CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
+4. 2024_arXiv_CLIP-Div__CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2407.01842)
 
 
-6. Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
+5. 2024_AAAI_PDA_Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
+    [[arXiv]](https://arxiv.org/abs/2312.09553v1)
+
+
+6. 2024_CVPR_DAMP_Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2403.02899)
 
 
-7. Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
+7. 2024_CVPR_UniMoS_Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2403.06946v1)
 
 
-8. Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
+8. 2024_FUZZ-IEEE_VLM-TSK-DA__Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10612077)
 
 
-9. CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
+9. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10650901)
 
 
-10. Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
+10. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
     [[arXiv]](https://arxiv.org/abs/2408.02192)
 
 
-11. Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
+11. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10502168)
 
 
-12. Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
+12. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
     [[IEEE]](https://ieeexplore.ieee.org/document/10484237)
+
 
 
 
 ##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
 
-1. Open-Set Domain Adaptation with Visual-Language Foundation Models.
+1. 2023_arXiv_ODA with CLIP__Open-Set Domain Adaptation with Visual-Language Foundation Models.
     [[arXiv]](https://arxiv.org/abs/2307.16204)
 
 
-2. Decoupling Domain Invariance and Variance With Tailored Prompts for Open-Set Domain Adaptation.
+2. 2024_arXiv_COSMo_COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation.
+    [[arXiv]](https://arxiv.org/abs/2409.00397v1)
+
+
+3. 2024_ICIP_PromptIDIV__Decoupling Domain Invariance and Variance With Tailored Prompts for Open-Set Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/document/10647719)
 
 
-3. COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation.
-    [[arXiv]](https://arxiv.org/abs/2409.00397v1)
+
+
 
 
 
 #### 4.1.2 Multi-Source (MS)
 
 ##### 4.1.2.1 Multi-Source Closed-Set Unsupervised Domain Adaptation (MS-CSUDA)
-1. Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation.
+
+1. 2023_NeurIPS_MPA_Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2209.15210)
 
    
-2. LanDA: Language-Guided Multi-Source Domain Adaptation.
+2. 2024_arXiv_LanDA_LanDA: Language-Guided Multi-Source Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2401.14148)
 
 
+
 ##### 4.1.2.2 Multi-Source Open-Partial-Set Unsupervised Domain Adaptation (MS-OPSUDA) a.k.a. Universal Multi-Source Domain Adaptation (UniMDA)
-1. Semantic-Aware Adaptive Prompt Learning for Universal Multi-Source Domain Adaptation.
+
+1. 2024_Signal Processing Letters_SAP-CLIP_Semantic-Aware Adaptive Prompt Learning for Universal Multi-Source Domain Adaptation.
     [[arXiv]](https://ieeexplore.ieee.org/document/10502133)
 
+
+
 ##### 4.1.2.3 Multi-Source Few-Shot Domain Adaptation (MS-FSDA)
-1. Domain Prompt Matters a Lot in Multi-Source Few-Shot Domain Adaptation.
+
+1. 2024_OpenReview_MSDPL_Domain Prompt Matters a Lot in Multi-Source Few-Shot Domain Adaptation.
     [[arXiv]](https://openreview.net/forum?id=YRJDZYGmAZ)
 
 
@@ -340,39 +354,39 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 4.2.1.1 Source-Fully-Free Closed-Set Unsupervised Domain Adaptation (SFF-CSUDA) a.k.a. Unsupervised Fine-Tuning (CS-UFT)
 
-1. Unsupervised Prompt Learning for Vision-Language Models.
+1. 2022_arXiv_UPL_Unsupervised Prompt Learning for Vision-Language Models.
     [[arXiv]](https://arxiv.org/abs/2204.03649)
 
 
-2. POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models.
+2. 2023_ICML_POUF_POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models.
     [[arXiv]](https://arxiv.org/abs/2305.00350)
 
 
-3. DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models.
+3. 2024_arXiv_DPA_DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models.
     [[arXiv]](https://arxiv.org/abs/2408.08855)
 
 
-5. Training-Free Unsupervised Prompt for Vision-Language Models.
+4. 2024_arXiv_TFUP_Training-Free Unsupervised Prompt for Vision-Language Models.
     [[arXiv]](https://arxiv.org/abs/2404.16339)
 
 
-7. Rethinking Domain Adaptation and Generalization in the Era Of CLIP.
+5. 2024_ICIP_Rethinking Domain Adaptation and Generalization in the Era Of CLIP.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10647766)
 
 
-9. Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data.
+6. 2024_ICML_CPL_Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data.
     [[arXiv]](https://arxiv.org/abs/2406.10502)
 
 
-11. Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+7. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
 
 
-13. LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
+8. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
     [[arXiv]](https://arxiv.org/abs/2305.18287)
 
 
-15. ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
+9. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2308.03793)
 
 
@@ -420,6 +434,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
+
 ##### 4.2.2.2 Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)
 
 1. Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
@@ -428,6 +443,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 2. Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
     [[arXiv]](https://arxiv.org/abs/2405.02954)
+
 
 
 
