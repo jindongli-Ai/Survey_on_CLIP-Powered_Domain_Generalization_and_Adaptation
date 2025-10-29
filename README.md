@@ -405,16 +405,16 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[GitHub]](https://github.com/vanillaer/CPL-ICML2024)
     [[Slides]](https://icml.cc/media/icml-2024/Slides/32922.pdf)
 
-8. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+7. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
     [[GitHub]](https://github.com/tim-learn/UEO)
 
-10. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
+8. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
     [[arXiv]](https://arxiv.org/abs/2305.18287)
     [[Homepage]](https://jmiemirza.github.io/LaFTer/)
     [[Github]](https://github.com/jmiemirza/LaFTer)
 
-12. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
+9. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2308.03793)
     [[Github]](https://github.com/michiganleon/ReCLIP_WACV)
 
@@ -425,6 +425,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 1. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
+    [[GitHub]](https://github.com/tim-learn/UEO)
 
 
 
@@ -435,6 +436,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 2. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
+    [[GitHub]](https://github.com/tim-learn/UEO)
 
 
 
@@ -442,6 +444,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 1. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
+    [[GitHub]](https://github.com/tim-learn/UEO)
 
 
 
@@ -452,12 +455,15 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 1. 2024_arXiv_CDBN_Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2410.15811)
+    [[GitHub]](https://github.com/ethanAiJLu/CDBN)
 
 2. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
     [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
+    [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
 3. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
     [[arXiv]](https://arxiv.org/abs/2405.02954)
+    [[GitHub]](https://github.com/zwenyu/colearn-plus)
 
 4. 2024_Signal-Image-and-Video-Processing_BBC_CLIP-guided Black-Box Domain Adaptation of Image Classification.
     [[Springer]](https://link.springer.com/article/10.1007/s11760-024-03101-8)
@@ -469,11 +475,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 1. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
     [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
-
+    [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
 2. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
     [[arXiv]](https://arxiv.org/abs/2405.02954)
-
+    [[GitHub]](https://github.com/zwenyu/colearn-plus)
 
 
 
@@ -482,15 +488,13 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 1. 2023_arXiv_ODA with CLIP_Open-Set Domain Adaptation with Visual-Language Foundation Models.
     [[arXiv]](https://arxiv.org/abs/2307.16204)
 
-
 2. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
    [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
-
+   [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
 3. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
    [[arXiv]](https://arxiv.org/abs/2405.02954)
-
-
+   [[GitHub]](https://github.com/zwenyu/colearn-plus)
 
 
 
