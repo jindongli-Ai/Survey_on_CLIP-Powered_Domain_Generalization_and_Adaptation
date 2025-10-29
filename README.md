@@ -37,7 +37,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 1. 2021_ICML_CLIP_Learning Transferable Visual Models From Natural Language Supervision.
     [[ICML]](https://icml.cc/virtual/2021/oral/9194)
     [[arXiv]](https://arxiv.org/abs/2103.00020)
-    [[Code]](https://github.com/OpenAI/CLIP)
+    [[Github]](https://github.com/OpenAI/CLIP)
 
 
 ## 1. Introduction
@@ -152,34 +152,33 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ##### 3.2.1.1 Single-Source Closed-Set Domain Generalization (SS-CSDG)
 
 1. 2023_ICCV_BorLan_Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm.
-   [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.pdf)
-
+    [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.pdf)
+    [[Github]](https://github.com/BIT-DA/BorLan)
 
 2. 2023_ICCV_DAPT_Distribution-Aware Prompt Tuning for Vision-Language Models.
-   [[arXiv]](https://arxiv.org/abs/2309.03406)
-
+    [[arXiv]](https://arxiv.org/abs/2309.03406)
+    [[Github]](https://github.com/mlvlab/DAPT)
 
 3. 2023_ICCV_PromptSRC_Self-Regulating Prompts: Foundational Model Adaptation without Forgetting.
-   [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
-
+    [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
+    [[Github]](https://github.com/muzairkhattak/PromptSRC)
 
 4. 2024_arXiv_GalLoP_GalLoP: Learning Global and Local Prompts for Vision-Language Models.
-   [[arXiv]](https://arxiv.org/abs/2407.01400v1)
-
+    [[arXiv]](https://arxiv.org/abs/2407.01400v1)
+    [[Github]](https://github.com/MarcLafon/gallop)
 
 5. 2024_arXiv_LDFS_Enhancing Vision-Language Models Generalization via Diversity-Driven Novel Feature Synthesis.
     [[arXiv]](https://arxiv.org/abs/2405.02586)
 
-
 6. 2024_arXiv_SPG_Soft Prompt Generation for Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2404.19286)
+    [[Github]](https://github.com/renytek13/Soft-Prompt-Generation)
 
-
-7. 2024_CVPR_MMA_MMA: Multi-Modal Adapter for Vision-Language Models.
+8. 2024_CVPR_MMA_MMA: Multi-Modal Adapter for Vision-Language Models.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
+    [[Github]](https://github.com/ZjjConan/VLM-MultiModalAdapter)
 
-
-8. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
+10. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2302.09251)
 
 
