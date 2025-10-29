@@ -233,16 +233,19 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 3.2.1.3 Multi-Source Open-Set Domain Generalization (MS-OSDG)
 
-1. 2023_ICML_CLIPood: Generalizing CLIP to Out-of-Distributions.
-   [[ICML]](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
+1. 2023_ICML_CLIPood_CLIPood: Generalizing CLIP to Out-of-Distributions.
+    [[ICML]](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
+    [[Github]](https://github.com/thuml/CLIPood)
 
    
 2. 2024_CVPR_ODG-CLIP_Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
-   [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
-
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
+    [[Github]](https://github.com/mainaksingha01/ODG-CLIP)
    
 3. 2024_CVPR_SCI-PD_PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization.
-   [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
+    [[Github]](https://github.com/znchen666/HDG)
+
 
 
 
@@ -251,18 +254,25 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 1. 2022_arXiv_DUPRG_Domain-Unified Prompt Representations for Source-Free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2209.14926)
+    [[Github]](https://github.com/muse1998/Source-Free-Domain-Generalization)
 
 
-2. 2023_ICCV_PromptStyler_PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization.
+3. 2023_ICCV_PromptStyler_PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2307.15199)
+    [[Github]](https://github.com/PromptStyler/PromptStyler.github.io)
 
 
-3. 2024_arXiv_DPStyler_DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization.
+5. 2024_arXiv_DPStyler_DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2403.16697)
+    [[Github]](https://github.com/TYLfromSEU/DPStyler)
 
 
-4. 2024_arXiv_PromptTA__PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
+7. 2024_arXiv_PromptTA__PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2409.14163)
+    [[Github]](https://github.com/zhanghr2001/PromptTA)
+
+
+
 
 
 
