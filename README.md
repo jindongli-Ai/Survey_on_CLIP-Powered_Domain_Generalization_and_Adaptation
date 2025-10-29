@@ -263,7 +263,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2403.16697)
     [[GitHub]](https://github.com/TYLfromSEU/DPStyler)
 
-4. 2024_arXiv_PromptTA__PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
+4. 2024_arXiv_PromptTA_PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2409.14163)
     [[GitHub]](https://github.com/zhanghr2001/PromptTA)
 
@@ -344,7 +344,6 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
-
 #### 4.1.2 Multi-Source (MS)
 
 ##### 4.1.2.1 Multi-Source Closed-Set Unsupervised Domain Adaptation (MS-CSUDA)
@@ -404,17 +403,20 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[PMLR]](https://proceedings.mlr.press/v235/zhang24bo.html)
     [[arXiv]](https://arxiv.org/abs/2406.10502)
     [[GitHub]](https://github.com/vanillaer/CPL-ICML2024)
+    [[Slides]](https://icml.cc/media/icml-2024/Slides/32922.pdf)
 
-7. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+8. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
+    [[GitHub]](https://github.com/tim-learn/UEO)
 
-
-8. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
+10. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
     [[arXiv]](https://arxiv.org/abs/2305.18287)
+    [[Homepage]](https://jmiemirza.github.io/LaFTer/)
+    [[Github]](https://github.com/jmiemirza/LaFTer)
 
-
-9. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
+12. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2308.03793)
+    [[Github]](https://github.com/michiganleon/ReCLIP_WACV)
 
 
 
