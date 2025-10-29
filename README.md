@@ -237,7 +237,6 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[ICML]](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf)
     [[Github]](https://github.com/thuml/CLIPood)
 
-   
 2. 2024_CVPR_ODG-CLIP_Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
     [[Github]](https://github.com/mainaksingha01/ODG-CLIP)
@@ -256,18 +255,15 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2209.14926)
     [[Github]](https://github.com/muse1998/Source-Free-Domain-Generalization)
 
-
-3. 2023_ICCV_PromptStyler_PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization.
+2. 2023_ICCV_PromptStyler_PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2307.15199)
     [[Github]](https://github.com/PromptStyler/PromptStyler.github.io)
 
-
-5. 2024_arXiv_DPStyler_DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization.
+3. 2024_arXiv_DPStyler_DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2403.16697)
     [[Github]](https://github.com/TYLfromSEU/DPStyler)
 
-
-7. 2024_arXiv_PromptTA__PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
+4. 2024_arXiv_PromptTA__PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2409.14163)
     [[Github]](https://github.com/zhanghr2001/PromptTA)
 
@@ -311,20 +307,21 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2403.06946v1)
     [[Github]](https://github.com/TL-UESTC/UniMoS)
 
-9. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
+8. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10612077)
    
-11. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
+9. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10650901)
 
-12. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
+10. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
     [[arXiv]](https://arxiv.org/abs/2408.02192)
     [[Github]](https://github.com/Wenlve-Zhou/VLP-UDA)
 
-14. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
+11. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10502168)
 
-15. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
+12. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
+    [[WACV]](https://openaccess.thecvf.com/content/WACV2024/papers/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.pdf)
     [[IEEE]](https://ieeexplore.ieee.org/document/10484237)
 
 
@@ -332,15 +329,14 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
 
-1. 2023_arXiv_ODA with CLIP__Open-Set Domain Adaptation with Visual-Language Foundation Models.
+1. 2023_arXiv_ODA with CLIP_Open-Set Domain Adaptation with Visual-Language Foundation Models.
     [[arXiv]](https://arxiv.org/abs/2307.16204)
-
 
 2. 2024_arXiv_COSMo_COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2409.00397v1)
+    [[Github]](https://github.com/munish30monga/COSMo)
 
-
-3. 2024_ICIP_PromptIDIV__Decoupling Domain Invariance and Variance With Tailored Prompts for Open-Set Domain Adaptation.
+3. 2024_ICIP_PromptIDIV_Decoupling Domain Invariance and Variance With Tailored Prompts for Open-Set Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/document/10647719)
 
 
@@ -355,10 +351,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 1. 2023_NeurIPS_MPA_Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2209.15210)
-
+    [[Github](https://github.com/HaoranChen/Multi-Prompt-Alignment-for-MSUDA)
    
 2. 2024_arXiv_LanDA_LanDA: Language-Guided Multi-Source Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2401.14148)
+    [[Github]](https://github.com/wongzbb/LanDA)
 
 
 
@@ -385,27 +382,28 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 1. 2022_arXiv_UPL_Unsupervised Prompt Learning for Vision-Language Models.
     [[arXiv]](https://arxiv.org/abs/2204.03649)
-
+    [[Github]](https://github.com/tonyhuang2022/UPL)
 
 2. 2023_ICML_POUF_POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models.
     [[arXiv]](https://arxiv.org/abs/2305.00350)
-
+    [[Github]](https://github.com/korawat-tanwisuth/POUF)
 
 3. 2024_arXiv_DPA_DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models.
     [[arXiv]](https://arxiv.org/abs/2408.08855)
-
+    [[Github]](https://github.com/Externalhappy/DPA)
 
 4. 2024_arXiv_TFUP_Training-Free Unsupervised Prompt for Vision-Language Models.
     [[arXiv]](https://arxiv.org/abs/2404.16339)
-
+    [[Github]](https://github.com/wlb12345/TFUP)
 
 5. 2024_ICIP_Rethinking Domain Adaptation and Generalization in the Era Of CLIP.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10647766)
 
-
 6. 2024_ICML_CPL_Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data.
+    [[ICML]](https://dl.acm.org/doi/abs/10.5555/3692070.3694551)
+    [[PMLR]](https://proceedings.mlr.press/v235/zhang24bo.html)
     [[arXiv]](https://arxiv.org/abs/2406.10502)
-
+    [[Github]](https://github.com/vanillaer/CPL-ICML2024)
 
 7. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[arXiv]](https://arxiv.org/abs/2308.12919)
