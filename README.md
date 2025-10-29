@@ -115,26 +115,33 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 <br>
 
 1. 2022_CVPR_CoCoOp_Conditional Prompt Learning for Vision-Language Models.
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)
     [[arXiv]](https://arxiv.org/abs/2203.05557)
     [[GitHub]](https://github.com/KaiyangZhou/CoOp)
 
 2. 2022_IJCV_CoOp_Learning to Prompt for Vision-Language Models.
+    [[ACM]](https://dl.acm.org/doi/abs/10.1007/s11263-022-01653-1)
     [[arXiv]](https://arxiv.org/abs/2109.01134)
     [[GitHub]](https://github.com/KaiyangZhou/CoOp)
    
 3. 2023_CVPR_KgCoOp_Visual-Language Prompt Tuning with Knowledge-Guided Context Optimization.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Visual-Language_Prompt_Tuning_With_Knowledge-Guided_Context_Optimization_CVPR_2023_paper.pdf)
+    [[arXiv]](https://arxiv.org/abs/2303.13283)
     [[GitHub]](https://github.com/htyao89/KgCoOp)
    
 4. 2023_CVPR_MaPLe_MaPLe: Multi-Modal Prompt Learning.
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Khattak_MaPLe_Multi-Modal_Prompt_Learning_CVPR_2023_paper.pdf)
+    [[IEEE]](https://ieeexplore.ieee.org/document/10203359)
     [[arXiv]](https://arxiv.org/abs/2210.03117)
     [[GitHub]](https://github.com/muzairkhattak/multimodal-prompt-learning)
    
 5. 2023_ICCV_ProGrad_Prompt-aligned Gradient for Prompt Tuning.
     [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)
+    [[arXiv]](https://arxiv.org/abs/2205.14865)
     [[GitHub]](https://github.com/BeierZhu/Prompt-align)
 
 6. 2024_AAAI_LAMM_LAMM: Label Alignment for Multi-Modal Prompt Learning.
+    [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/27950)
     [[arXiv]](https://arxiv.org/abs/2312.08212)
     [[GitHub]](https://github.com/gaojingsheng/LAMM)
     
