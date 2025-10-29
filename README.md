@@ -174,11 +174,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2404.19286)
     [[Github]](https://github.com/renytek13/Soft-Prompt-Generation)
 
-8. 2024_CVPR_MMA_MMA: Multi-Modal Adapter for Vision-Language Models.
+7. 2024_CVPR_MMA_MMA: Multi-Modal Adapter for Vision-Language Models.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
     [[Github]](https://github.com/ZjjConan/VLM-MultiModalAdapter)
 
-10. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
+8. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2302.09251)
 
 
@@ -195,30 +195,39 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
    
 2. 2023_TJSAI_DPL_Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains.
     [[Jstage]](https://www.jstage.jst.go.jp/article/tjsai/38/6/38_38-6_B-MC2/_pdf)
+    [[Github]](https://github.com/anonymous-2023/DPLCLIP)
 
 3. 2024_arXiv_SPG_Soft Prompt Generation for Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2404.19286)
+    [[Github]](https://github.com/renytek13/Soft-Prompt-Generation)
 
 4. 2024_Access_CAL_Consistent Augmentation Learning for Generalizing CLIP to Unseen Domains.
-   [[IEEE]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716475)
-   
+    [[IEEE]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10716475)
+    
 5. 2024_AIEA_Mix-up Loss_Robust Domain Generalization for Multi-modal Object Recognition.
-   [[arXiv]](https://arxiv.org/abs/2408.05831)
+    [[arXiv]](https://arxiv.org/abs/2408.05831)
    
 6. 2024_CVPR_Any-Shift Prompting_Any-Shift Prompting for Generalization over Distributions.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Any-Shift_Prompting_for_Generalization_over_Distributions_CVPR_2024_paper.pdf)
+    [[Github]](https://github.com/zzzx1224/any-shift-prompting/tree/main)
     
 7. 2024_CVPR_DPR_Disentangled Prompt Representation for Domain Generalization.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10655401)
    
 8. 2024_CVPR_ODG-CLIP_Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
+    [[Github]](https://github.com/mainaksingha01/ODG-CLIP)
     
 10. 2024_CVPR_VL2V-ADiP_Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification.
     [[CVPR]](https://cvpr.thecvf.com/virtual/2024/poster/31364)
+    [[Homepage]](http://val.cds.iisc.ac.in/VL2V-ADiP/)
+    [[Github]](https://github.com/val-iisc/VL2V-ADiP)
+    
 
-11. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
+12. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2302.09251)
+
+
 
 
 
