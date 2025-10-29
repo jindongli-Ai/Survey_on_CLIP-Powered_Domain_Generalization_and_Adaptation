@@ -195,6 +195,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[GitHub]](https://github.com/ZjjConan/VLM-MultiModalAdapter)
 
 8. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
+    [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Bose_STYLIP_Multi-Scale_Style-Conditioned_Prompt_Learning_for_CLIP-Based_Domain_Generalization_WACV_2024_paper.html)
     [[arXiv]](https://arxiv.org/abs/2302.09251)
 
 
@@ -284,17 +285,21 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[GitHub]](https://github.com/muse1998/Source-Free-Domain-Generalization)
 
 2. 2023_ICCV_PromptStyler_PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization.
+    [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_PromptStyler_Prompt-driven_Style_Generation_for_Source-free_Domain_Generalization_ICCV_2023_paper.html)
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10377071)
     [[arXiv]](https://arxiv.org/abs/2307.15199)
     [[GitHub]](https://github.com/PromptStyler/PromptStyler.github.io)
 
-3. 2024_arXiv_DPStyler_DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization.
+3. 2024_arXiv_2025_ToM_DPStyler_DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2403.16697)
+    [[ToM]](https://ieeexplore.ieee.org/abstract/document/10824918)
+    [[ACM]](https://dl.acm.org/doi/abs/10.1109/TMM.2024.3521671)
     [[GitHub]](https://github.com/TYLfromSEU/DPStyler)
 
-4. 2024_arXiv_PromptTA_PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
+4. 2024_arXiv_2025_ICASSP_PromptTA_PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization.
     [[arXiv]](https://arxiv.org/abs/2409.14163)
+    [[ICASSP]](https://ieeexplore.ieee.org/abstract/document/10888057)
     [[GitHub]](https://github.com/zhanghr2001/PromptTA)
-
 
 
 
@@ -309,46 +314,49 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ##### 4.1.1.1 Single-Source Closed-Set Unsupervised Domain Adaptation (SS-CSUDA)
 
 1. 2023_ICCV_PADCLIP_PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation.
+    [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Lai_PADCLIP_Pseudo-labeling_with_Adaptive_Debiasing_in_CLIP_for_Unsupervised_Domain_ICCV_2023_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/document/10377727)
 
 2. 2023_ICCVW_AD-CLIP_AD-CLIP: Adapting Domains in Prompt Space Using CLIP.
+    [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Singha_AD-CLIP_Adapting_Domains_in_Prompt_Space_Using_CLIP_ICCVW_2023_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/document/10351000)
+    [[arXiv]](https://arxiv.org/abs/2308.05659)
     [[GitHub]](https://github.com/mainaksingha01/AD-CLIP/tree/master)
 
-3. 2023_TNNLS_DAPrompt_Domain Adaptation via Prompt Learning.
+5. 2023_TNNLS_DAPrompt_Domain Adaptation via Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/document/10313995)
     [[GitHub]](https://github.com/LeapLabTHU/DAPrompt)
 
-4. 2024_arXiv_CLIP-Div_CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
+6. 2024_arXiv_CLIP-Div_CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2407.01842)
 
-5. 2024_AAAI_PDA_Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
+7. 2024_AAAI_PDA_Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
     [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/27830)
     [[arXiv]](https://arxiv.org/abs/2312.09553v1)
     [[GitHub]](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment)
 
-6. 2024_CVPR_DAMP_Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
+8. 2024_CVPR_DAMP_Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2403.02899)
     [[GitHub]](https://github.com/TL-UESTC/DAMP)
 
-7. 2024_CVPR_UniMoS_Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
+9. 2024_CVPR_UniMoS_Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2403.06946v1)
     [[GitHub]](https://github.com/TL-UESTC/UniMoS)
 
-8. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
+10. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10612077)
    
-9. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
+11. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10650901)
 
-10. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
+12. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
     [[arXiv]](https://arxiv.org/abs/2408.02192)
     [[GitHub]](https://github.com/Wenlve-Zhou/VLP-UDA)
 
-11. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
+13. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10502168)
 
-12. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
+14. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
     [[WACV]](https://openaccess.thecvf.com/content/WACV2024/papers/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.pdf)
     [[IEEE]](https://ieeexplore.ieee.org/document/10484237)
 
