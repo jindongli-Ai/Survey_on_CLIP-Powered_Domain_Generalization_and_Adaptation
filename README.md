@@ -287,48 +287,44 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 1. 2023_ICCV_PADCLIP_PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/document/10377727)
 
-
 2. 2023_ICCVW_AD-CLIP_AD-CLIP: Adapting Domains in Prompt Space Using CLIP.
     [[IEEE]](https://ieeexplore.ieee.org/document/10351000)
+    [[Github]](https://github.com/mainaksingha01/AD-CLIP/tree/master)
 
- 
-3. 2023_TNNLS_Domain Adaptation via Prompt Learning.
+3. 2023_TNNLS_DAPrompt_Domain Adaptation via Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/document/10313995)
+    [[Github]](https://github.com/LeapLabTHU/DAPrompt)
 
-
-4. 2024_arXiv_CLIP-Div__CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
+4. 2024_arXiv_CLIP-Div_CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2407.01842)
 
-
 5. 2024_AAAI_PDA_Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
+    [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/27830)
     [[arXiv]](https://arxiv.org/abs/2312.09553v1)
-
+    [[Github]](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment)
 
 6. 2024_CVPR_DAMP_Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2403.02899)
-
+    [[Github]](https://github.com/TL-UESTC/DAMP)
 
 7. 2024_CVPR_UniMoS_Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2403.06946v1)
+    [[Github]](https://github.com/TL-UESTC/UniMoS)
 
-
-8. 2024_FUZZ-IEEE_VLM-TSK-DA__Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
+9. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10612077)
-
-
-9. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
+   
+11. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10650901)
 
-
-10. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
+12. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
     [[arXiv]](https://arxiv.org/abs/2408.02192)
+    [[Github]](https://github.com/Wenlve-Zhou/VLP-UDA)
 
-
-11. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
+14. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10502168)
 
-
-12. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
+15. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
     [[IEEE]](https://ieeexplore.ieee.org/document/10484237)
 
 
