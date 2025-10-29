@@ -351,7 +351,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 1. 2023_NeurIPS_MPA_Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2209.15210)
-    [[Github](https://github.com/HaoranChen/Multi-Prompt-Alignment-for-MSUDA)
+    [[Github]](https://github.com/HaoranChen/Multi-Prompt-Alignment-for-MSUDA)
    
 2. 2024_arXiv_LanDA_LanDA: Language-Guided Multi-Source Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2401.14148)
