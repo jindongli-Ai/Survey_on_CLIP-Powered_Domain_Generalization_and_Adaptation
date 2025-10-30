@@ -528,12 +528,15 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2311.16510)
     [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
-4. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
+3. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
+    [[Springer]](https://link.springer.com/article/10.1007/s11263-024-02215-3)
+    [[ACM]](https://dl.acm.org/doi/abs/10.1007/s11263-024-02215-3)
     [[arXiv]](https://arxiv.org/abs/2405.02954)
     [[GitHub]](https://github.com/zwenyu/colearn-plus)
 
-5. 2024_Signal-Image-and-Video-Processing_BBC_CLIP-guided Black-Box Domain Adaptation of Image Classification.
+4. 2024_Signal-Image-and-Video-Processing_BBC_CLIP-guided Black-Box Domain Adaptation of Image Classification.
     [[Springer]](https://link.springer.com/article/10.1007/s11760-024-03101-8)
+    [[OpenReview]](https://openreview.net/forum?id=v5wjwljhc2)
 
 
 
@@ -541,10 +544,14 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ##### 4.2.2.2 Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)
 
 1. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Tang_Source-Free_Domain_Adaptation_with_Frozen_Multimodal_Foundation_Model_CVPR_2024_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
+    [[arXiv]](https://arxiv.org/abs/2311.16510)
     [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
 2. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
+    [[Springer]](https://link.springer.com/article/10.1007/s11263-024-02215-3)
+    [[ACM]](https://dl.acm.org/doi/abs/10.1007/s11263-024-02215-3)
     [[arXiv]](https://arxiv.org/abs/2405.02954)
     [[GitHub]](https://github.com/zwenyu/colearn-plus)
 
@@ -552,17 +559,22 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 4.2.2.3 Source-Data-Free Open-Set Unsupervised Domain Adaptation (SDF-OSUDA)
 
-1. 2023_arXiv_ODA with CLIP_Open-Set Domain Adaptation with Visual-Language Foundation Models.
+1. 2023_arXiv_2025_CVIU_ODA with CLIP_Open-Set Domain Adaptation with Visual-Language Foundation Models.
+    [[ScienceDirect CVIU]](https://www.sciencedirect.com/science/article/pii/S1077314224003114)
+    [[ACM]](https://dl.acm.org/doi/abs/10.1016/j.cviu.2024.104230)
     [[arXiv]](https://arxiv.org/abs/2307.16204)
 
 2. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
-   [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
-   [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Tang_Source-Free_Domain_Adaptation_with_Frozen_Multimodal_Foundation_Model_CVPR_2024_paper.html)
+    [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
+    [[arXiv]](https://arxiv.org/abs/2311.16510)
+    [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
 3. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
-   [[arXiv]](https://arxiv.org/abs/2405.02954)
-   [[GitHub]](https://github.com/zwenyu/colearn-plus)
-
+    [[Springer]](https://link.springer.com/article/10.1007/s11263-024-02215-3)
+    [[ACM]](https://dl.acm.org/doi/abs/10.1007/s11263-024-02215-3)
+    [[arXiv]](https://arxiv.org/abs/2405.02954)
+    [[GitHub]](https://github.com/zwenyu/colearn-plus)
 
 
 
