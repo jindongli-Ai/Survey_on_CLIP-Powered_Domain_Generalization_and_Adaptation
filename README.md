@@ -323,48 +323,48 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2308.05659)
     [[GitHub]](https://github.com/mainaksingha01/AD-CLIP/tree/master)
 
-5. 2023_TNNLS_DAPrompt_Domain Adaptation via Prompt Learning.
+3. 2023_TNNLS_DAPrompt_Domain Adaptation via Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/document/10313995)
     [[arXiv]](https://arxiv.org/abs/2202.06687)
     [[GitHub]](https://github.com/LeapLabTHU/DAPrompt)
 
-7. 2024_arXiv_CLIP-Div_CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
+4. 2024_arXiv_CLIP-Div_CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2407.01842)
 
-8. 2024_AAAI_PDA_Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
+5. 2024_AAAI_PDA_Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
     [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/27830)
     [[arXiv]](https://arxiv.org/abs/2312.09553v1)
     [[GitHub]](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment)
 
-9. 2024_CVPR_DAMP_Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
+6. 2024_CVPR_DAMP_Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Du_Domain-Agnostic_Mutual_Prompting_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10658604)
     [[arXiv]](https://arxiv.org/abs/2403.02899)
     [[GitHub]](https://github.com/TL-UESTC/DAMP)
 
-11. 2024_CVPR_UniMoS_Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
+7. 2024_CVPR_UniMoS_Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Split_to_Merge_Unifying_Separated_Modalities_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10656339)
     [[arXiv]](https://arxiv.org/abs/2403.06946v1)
     [[GitHub]](https://github.com/TL-UESTC/UniMoS)
 
-13. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
+8. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10612077)
    
-14. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
+9. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10650901)
 
-15. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
+10. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10505301)
     [[ACM]](https://dl.acm.org/doi/abs/10.1109/TCSVT.2024.3391304)
     [[arXiv]](https://arxiv.org/abs/2408.02192)
     [[GitHub]](https://github.com/Wenlve-Zhou/VLP-UDA)
 
-17. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
+11. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10502168)
     [[ACM]](https://dl.acm.org/doi/abs/10.1109/TFUZZ.2024.3389705)
 
-19. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
+12. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
     [[WACV]](https://openaccess.thecvf.com/content/WACV2024/papers/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.pdf)
     [[IEEE]](https://ieeexplore.ieee.org/document/10484237)
 
@@ -378,11 +378,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[ACM]](https://dl.acm.org/doi/abs/10.1016/j.cviu.2024.104230)
     [[arXiv]](https://arxiv.org/abs/2307.16204)
 
-3. 2024_arXiv_COSMo_COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation.
+2. 2024_arXiv_COSMo_COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2409.00397v1)
     [[GitHub]](https://github.com/munish30monga/COSMo)
 
-4. 2024_ICIP_PromptIDIV_Decoupling Domain Invariance and Variance With Tailored Prompts for Open-Set Domain Adaptation.
+3. 2024_ICIP_PromptIDIV_Decoupling Domain Invariance and Variance With Tailored Prompts for Open-Set Domain Adaptation.
     [[IEEE]](https://ieeexplore.ieee.org/document/10647719)
 
 
@@ -400,7 +400,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2209.15210)
     [[GitHub]](https://github.com/HaoranChen/Multi-Prompt-Alignment-for-MSUDA)
    
-3. 2024_arXiv_LanDA_LanDA: Language-Guided Multi-Source Domain Adaptation.
+2. 2024_arXiv_LanDA_LanDA: Language-Guided Multi-Source Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2401.14148)
     [[GitHub]](https://github.com/wongzbb/LanDA)
 
@@ -432,6 +432,8 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[GitHub]](https://github.com/tonyhuang2022/UPL)
 
 2. 2023_ICML_POUF_POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models.
+    [[PMLR]](https://proceedings.mlr.press/v202/tanwisuth23a.html)
+    [[ACM]](https://dl.acm.org/doi/abs/10.5555/3618408.3619817)
     [[arXiv]](https://arxiv.org/abs/2305.00350)
     [[GitHub]](https://github.com/korawat-tanwisuth/POUF)
 
@@ -441,30 +443,33 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2408.08855)
     [[GitHub]](https://github.com/Externalhappy/DPA)
 
-5. 2024_arXiv_TFUP_Training-Free Unsupervised Prompt for Vision-Language Models.
+4. 2024_arXiv_TFUP_Training-Free Unsupervised Prompt for Vision-Language Models.
     [[arXiv]](https://arxiv.org/abs/2404.16339)
     [[GitHub]](https://github.com/wlb12345/TFUP)
 
-6. 2024_ICIP_Rethinking Domain Adaptation and Generalization in the Era Of CLIP.
+5. 2024_ICIP_Rethinking Domain Adaptation and Generalization in the Era Of CLIP.
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10647766)
+    [[arXiv]](https://arxiv.org/abs/2407.15173)
 
 7. 2024_ICML_CPL_Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data.
-    [[ICML]](https://dl.acm.org/doi/abs/10.5555/3692070.3694551)
     [[PMLR]](https://proceedings.mlr.press/v235/zhang24bo.html)
+    [[ACM]](https://dl.acm.org/doi/abs/10.5555/3692070.3694551)
     [[arXiv]](https://arxiv.org/abs/2406.10502)
     [[GitHub]](https://github.com/vanillaer/CPL-ICML2024)
     [[Slides]](https://icml.cc/media/icml-2024/Slides/32922.pdf)
 
-8. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+9. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+    [[PMLR]](https://proceedings.mlr.press/v235/liang24e.html)
+    [[ACM]](https://dl.acm.org/doi/abs/10.5555/3692070.3693265)
     [[arXiv]](https://arxiv.org/abs/2308.12919)
     [[GitHub]](https://github.com/tim-learn/UEO)
 
-9. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
+11. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
     [[arXiv]](https://arxiv.org/abs/2305.18287)
     [[Homepage]](https://jmiemirza.github.io/LaFTer/)
     [[Github]](https://github.com/jmiemirza/LaFTer)
 
-10. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
+12. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
     [[arXiv]](https://arxiv.org/abs/2308.03793)
     [[Github]](https://github.com/michiganleon/ReCLIP_WACV)
 
