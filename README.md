@@ -451,27 +451,31 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10647766)
     [[arXiv]](https://arxiv.org/abs/2407.15173)
 
-7. 2024_ICML_CPL_Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data.
+6. 2024_ICML_CPL_Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data.
     [[PMLR]](https://proceedings.mlr.press/v235/zhang24bo.html)
     [[ACM]](https://dl.acm.org/doi/abs/10.5555/3692070.3694551)
     [[arXiv]](https://arxiv.org/abs/2406.10502)
     [[GitHub]](https://github.com/vanillaer/CPL-ICML2024)
     [[Slides]](https://icml.cc/media/icml-2024/Slides/32922.pdf)
 
-9. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+7. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
     [[PMLR]](https://proceedings.mlr.press/v235/liang24e.html)
     [[ACM]](https://dl.acm.org/doi/abs/10.5555/3692070.3693265)
     [[arXiv]](https://arxiv.org/abs/2308.12919)
     [[GitHub]](https://github.com/tim-learn/UEO)
 
-11. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
+8. 2024_NeurIPS_LaFTer_LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections.
+    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/123a18dfd821c8b440f42a00a27648d6-Abstract-Conference.html)
+    [[ACM]](https://dl.acm.org/doi/abs/10.5555/3666122.3666374)
     [[arXiv]](https://arxiv.org/abs/2305.18287)
     [[Homepage]](https://jmiemirza.github.io/LaFTer/)
-    [[Github]](https://github.com/jmiemirza/LaFTer)
+    [[GitHub]](https://github.com/jmiemirza/LaFTer)
 
-12. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
+9. 2024_WACV_ReCLIP_ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation.
+    [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Hu_ReCLIP_Refine_Contrastive_Language_Image_Pre-Training_With_Source_Free_Domain_WACV_2024_paper.html)
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10483866)
     [[arXiv]](https://arxiv.org/abs/2308.03793)
-    [[Github]](https://github.com/michiganleon/ReCLIP_WACV)
+    [[GitHub]](https://github.com/michiganleon/ReCLIP_WACV)
 
 
 
