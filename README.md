@@ -483,6 +483,8 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ##### 4.2.1.2 Source-Fully-Free Partial-Set Unsupervised Domain Adaptation (SFF-PSUDA) a.k.a. Partial-Set Unsupervised Fine-Tuning (PS-UFT)
 
 1. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+    [[PMLR]](https://proceedings.mlr.press/v235/liang24e.html)
+    [[ACM]](https://dl.acm.org/doi/abs/10.5555/3692070.3693265)
     [[arXiv]](https://arxiv.org/abs/2308.12919)
     [[GitHub]](https://github.com/tim-learn/UEO)
 
@@ -491,9 +493,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ##### 4.2.1.3 Source-Fully-Free Open-Set Unsupervised Domain Adaptation (SFF-OSUDA) a.k.a. Open-Set Unsupervised Fine-Tuning (OS-UFT)
 
 1. 2023_ICML Workshop_UOTA_UOTA: Unsupervised Open-Set Task Adaptation Using a Vision-Language Foundation Model.
-   [[ICML]](https://icml.cc/virtual/2023/28284)
+    [[ICML]](https://icml.cc/virtual/2023/28284)
 
 2. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+    [[PMLR]](https://proceedings.mlr.press/v235/liang24e.html)
+    [[ACM]](https://dl.acm.org/doi/abs/10.5555/3692070.3693265)
     [[arXiv]](https://arxiv.org/abs/2308.12919)
     [[GitHub]](https://github.com/tim-learn/UEO)
 
@@ -502,6 +506,8 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ##### 4.2.1.4 Source-Fully-Free Open-Partial-Set Unsupervised Domain Adaptation (SFF-OPSUDA) a.k.a Open-Partial-Set Unsupervised Fine-Tuning (OPS-UFT)
 
 1. 2024_ICML_UEO_Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization.
+    [[PMLR]](https://proceedings.mlr.press/v235/liang24e.html)
+    [[ACM]](https://dl.acm.org/doi/abs/10.5555/3692070.3693265)
     [[arXiv]](https://arxiv.org/abs/2308.12919)
     [[GitHub]](https://github.com/tim-learn/UEO)
 
@@ -517,14 +523,16 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[GitHub]](https://github.com/ethanAiJLu/CDBN)
 
 2. 2024_CVPR_DIFO_Source-Free Domain Adaptation with Frozen Multimodal Foundation Model.
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Tang_Source-Free_Domain_Adaptation_with_Frozen_Multimodal_Foundation_Model_CVPR_2024_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/document/10654933)
+    [[arXiv]](https://arxiv.org/abs/2311.16510)
     [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
-3. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
+4. 2024_IJCV_Co-learn++_Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training.
     [[arXiv]](https://arxiv.org/abs/2405.02954)
     [[GitHub]](https://github.com/zwenyu/colearn-plus)
 
-4. 2024_Signal-Image-and-Video-Processing_BBC_CLIP-guided Black-Box Domain Adaptation of Image Classification.
+5. 2024_Signal-Image-and-Video-Processing_BBC_CLIP-guided Black-Box Domain Adaptation of Image Classification.
     [[Springer]](https://link.springer.com/article/10.1007/s11760-024-03101-8)
 
 
