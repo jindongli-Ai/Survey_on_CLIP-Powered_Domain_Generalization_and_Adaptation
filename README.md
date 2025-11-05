@@ -618,7 +618,12 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[Springer]](https://link.springer.com/article/10.1007/s11760-024-03101-8)
     [[OpenReview]](https://openreview.net/forum?id=v5wjwljhc2)
 
+5. 2025_ICLR_Prode_Proxy Denoising for Source-Free Domain Adaptation.
 
+    [[OpenReview]](https://openreview.net/forum?id=FIj9IEPCKr)
+    [[arXiv]](https://arxiv.org/abs/2406.01658v3)
+    [[Slides]](https://iclr.cc/media/iclr-2025/Slides/30349.pdf)
+    [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
 
 ##### 4.2.2.2 Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)
