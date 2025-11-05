@@ -503,6 +503,8 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2308.12919)
     [[GitHub]](https://github.com/tim-learn/UEO)
 
+3. 2025_arXiv_CLIPXpert_Revisiting CLIP for SF-OSDA= Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering.
+    [[arXiv]](https://arxiv.org/abs/2504.14224)
 
 
 ##### 4.2.1.4 Source-Fully-Free Open-Partial-Set Unsupervised Domain Adaptation (SFF-OPSUDA) a.k.a Open-Partial-Set Unsupervised Fine-Tuning (OPS-UFT)
