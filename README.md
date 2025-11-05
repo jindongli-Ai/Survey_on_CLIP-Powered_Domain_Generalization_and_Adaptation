@@ -35,6 +35,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 1. 2021_ICML_CLIP_Learning Transferable Visual Models From Natural Language Supervision.
+
     [[ICML]](https://icml.cc/virtual/2021/oral/9194)
     [[arXiv]](https://arxiv.org/abs/2103.00020)
     [[GitHub]](https://github.com/OpenAI/CLIP)
