@@ -550,7 +550,9 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2308.03793)
     [[GitHub]](https://github.com/michiganleon/ReCLIP_WACV)
 
+10. 2025_KBS_PDBDa_PDbDa= Prompt-Tuned Dual-Branch Framework for Unsupervised Domain Adaptation.
 
+    [[Elsevier]](https://www.sciencedirect.com/science/article/pii/S0950705125015485)
 
 
 ##### 4.2.1.2 Source-Fully-Free Partial-Set Unsupervised Domain Adaptation (SFF-PSUDA) a.k.a. Partial-Set Unsupervised Fine-Tuning (PS-UFT)
