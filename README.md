@@ -418,6 +418,10 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[IEEE]](https://ieeexplore.ieee.org/document/10484237)
 
 
+13. 2025_IJCV_MAwLLM_Multi-modal Prompt Alignment with Fine-grained LLM Knowledge for Unsupervised Domain Adaptation.
+    
+    [[Springer]](https://link.springer.com/article/10.1007/s11263-025-02497-1)
+    
 
 
 ##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
