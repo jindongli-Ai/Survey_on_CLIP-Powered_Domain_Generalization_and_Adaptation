@@ -934,14 +934,14 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
       <td>4</td>
       <td>65</td>
       <td>15,588</td>
-      <td><a href="https://faculty.cc.gatech.edu/~judy/domainadapt/">https://faculty.cc.gatech.edu/~judy/domainadapt/</a></td>
+      <td><a href="https://faculty.cc.gatech.edu/~judy/domainadapt/">https://www.hemanthdv.org/officeHomeDataset.html</a></td>
     </tr>
     <tr>
       <td>Office-31</td>
       <td>3</td>
       <td>31</td>
       <td>4,652</td>
-      <td><a href="https://www.hemanthdv.org/officeHomeDataset.html">https://www.hemanthdv.org/officeHomeDataset.html</a></td>
+      <td><a href="https://www.hemanthdv.org/officeHomeDataset.html">https://faculty.cc.gatech.edu/~judy/domainadapt/</a></td>
     </tr>
     <tr>
       <td>VisDA-2017</td>
@@ -1080,7 +1080,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     <tr>
       <td>Flowers102</td>
       <td>1</td>
-      <td>101</td>
+      <td>102</td>
       <td>8,189</td>
       <td><a href="https://www.kaggle.com/datasets/demonplus/flower-dataset-102">https://www.kaggle.com/datasets/demonplus/flower-dataset-102</a></td>
     </tr>
