@@ -432,6 +432,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
     [[ACM]](https://dl.acm.org/doi/abs/10.1109/TIP.2025.3541868)
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10901852)
+    [[GitHub]](https://github.com/Liuziyi1999/ADAPT)
 
 
 ##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
