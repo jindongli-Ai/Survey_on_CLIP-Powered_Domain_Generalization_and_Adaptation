@@ -428,6 +428,12 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[Elsevier]](https://www.sciencedirect.com/science/article/pii/S0950705125015485)
 
 
+15. 2025_TIP_ADAPT_When Adversarial Training Meets Prompt Tuning: Adversarial Dual Prompt Tuning for Unsupervised Domain Adaptation.
+
+    [[ACM]](https://dl.acm.org/doi/abs/10.1109/TIP.2025.3541868)
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10901852)
+
+
 ##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
 
 1. 2023_arXiv_2025_CVIU_ODA with CLIP_Open-Set Domain Adaptation with Visual-Language Foundation Models.
