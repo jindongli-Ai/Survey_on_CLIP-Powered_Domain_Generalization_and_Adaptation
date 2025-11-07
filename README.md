@@ -307,6 +307,9 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
     [[GitHub]](https://github.com/znchen666/HDG)
 
+4. 2025_TMLR_MetaPrompt_Meta-Learning to Teach Semantic Prompts for Open Domain Generalization in Vision-Language Models.
+
+   [[OpenReview]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Meta-Learning+to+Teach+Semantic+Prompts+for+Open+Domain+Generalization+in+Vision-Language+Models&btnG=)
 
 
 
