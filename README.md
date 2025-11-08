@@ -930,8 +930,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
-<small>
-<small>
+
 <table>
   <thead>
     <tr>
@@ -1140,8 +1139,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     </tr>
   </tbody>
 </table>
-</small>
-</small>
+
 
 
 ## Challenges and Opportunities
