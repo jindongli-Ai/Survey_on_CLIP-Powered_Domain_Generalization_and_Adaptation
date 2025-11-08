@@ -1077,7 +1077,6 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
       <td>10</td>
       <td>2,700</td>
       <td><a href="https://www.kaggle.com/datasets/apollo2506/eurosat-dataset">https://www.kaggle.com/datasets/apollo2506/eurosat-dataset</a> 
-          
           <a href='https://github.com/phelber/eurosat'>https://github.com/phelber/eurosat</a>
       </td>
     </tr>
