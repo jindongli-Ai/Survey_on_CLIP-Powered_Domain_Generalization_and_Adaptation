@@ -281,7 +281,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10484142)
     [[arXiv]](https://arxiv.org/abs/2302.09251)
 
-11. 2025_CVPR_Diverse-Text-Prompts_Domain Generalization in CLIP via Learing with Diverse Text Prompts.
+11. 2025_arXiv_HAM_Harmonizing and Merging Source Models for CLIP-based Domain Generalization.
+
+    [[arXiv]](https://arxiv.org/abs/2506.09446)
+
+12. 2025_CVPR_Diverse-Text-Prompts_Domain Generalization in CLIP via Learing with Diverse Text Prompts.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Wen_Domain_Generalization_in_CLIP_via_Learning_with_Diverse_Text_Prompts_CVPR_2025_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/document/11093286/similar#similar)
@@ -1142,9 +1146,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
-## Challenges and Opportunities
+## Related Reposority
 
-## Future Directions
+1. DomainBed. [[GitHub]](https://github.com/facebookresearch/DomainBed)
+
+
 
 ## 📖 Citation
 
