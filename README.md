@@ -294,7 +294,9 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Wen_Domain_Generalization_in_CLIP_via_Learning_with_Diverse_Text_Prompts_CVPR_2025_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/document/11093286/similar#similar)
 
+13. 2025_TCSVT_ClipMix_ClipMix for Domain Generalization.
 
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11026112?casa_token=C0gTWXlZzzIAAAAA:ilLByo1UME0HomZgn58lQMI_0a0EO7ksIBSe4eg-WZGnuEyrW6ckLJaRye2CtTHrir731joG0jPMSSA)
 
 
 
