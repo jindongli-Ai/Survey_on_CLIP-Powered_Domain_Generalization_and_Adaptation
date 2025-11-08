@@ -315,7 +315,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
     [[GitHub]](https://github.com/znchen666/HDG)
 
-4. 2025_CVPR_OSLoPrompt_OSLoPrompt= Bridging Low Supervision Challenges and Open-Set Domain Generalization in CLIP.
+4. 2025_CVPR_OSLoPrompt_OSLoPrompt: Bridging Low Supervision Challenges and Open-Set Domain Generalization in CLIP.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/C_OSLoPrompt_Bridging_Low-Supervision_Challenges_and_Open-Set_Domain_Generalization_in_CLIP_CVPR_2025_paper.html)
     [[arXiv]](https://arxiv.org/abs/2503.16106)
