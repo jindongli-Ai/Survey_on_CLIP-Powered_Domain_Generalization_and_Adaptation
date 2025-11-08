@@ -929,6 +929,9 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ### Common Datasets
 
 
+
+
+<div style="font-size:13px;">
 <table>
   <thead>
     <tr>
@@ -1137,7 +1140,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     </tr>
   </tbody>
 </table>
-
+</div>
 
 
 ## Challenges and Opportunities
