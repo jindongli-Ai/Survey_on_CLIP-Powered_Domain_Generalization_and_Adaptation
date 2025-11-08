@@ -973,7 +973,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
       <td>4</td>
       <td>7</td>
       <td>9,991</td>
-      <td><a href="https://www.kaggle.com/datasets/nickfratto/pacs-dataset">https://www.kaggle.com/datasets/nickfratto/pacs-dataset</a></td>
+      <td><a href="https://www.kaggle.com/datasets/nickfratto/pacs-dataset">https://www.kaggle.com/datasets/nickfratto/pacs-dataset</a> <a href="https://sketchx.eecs.qmul.ac.uk/">https://sketchx.eecs.qmul.ac.uk/</a></td>
     </tr>
     <tr>
       <td>VLCS</td>
@@ -999,7 +999,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     <tr>
       <td>NICO++</td>
       <td>6</td>
-      <td>7</td>
+      <td>60</td>
       <td>89,232</td>
       <td><a href="https://github.com/xxgege/NICO-plus">https://github.com/xxgege/NICO-plus</a></td>
     </tr>
@@ -1058,7 +1058,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
       <td>1</td>
       <td>100</td>
       <td>8,242</td>
-      <td><a href="https://www.kaggle.com/datasets/imbikramsaha/caltech-101">https://www.kaggle.com/datasets/imbikramsaha/caltech-101</a></td>
+      <td><a href="https://www.kaggle.com/datasets/imbikramsaha/caltech-101">https://www.kaggle.com/datasets/imbikramsaha/caltech-101</a> <a href="https://www.vision.caltech.edu/datasets/">https://www.vision.caltech.edu/datasets/</a></td>
     </tr>
     <tr>
       <td>DTD</td>
@@ -1072,7 +1072,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
       <td>1</td>
       <td>10</td>
       <td>2,700</td>
-      <td><a href="https://www.kaggle.com/datasets/apollo2506/eurosat-dataset">https://www.kaggle.com/datasets/apollo2506/eurosat-dataset</a></td>
+      <td><a href="https://www.kaggle.com/datasets/apollo2506/eurosat-dataset">https://www.kaggle.com/datasets/apollo2506/eurosat-dataset</a> <a href='https://github.com/phelber/eurosat'>https://github.com/phelber/eurosat</a></td>
     </tr>
     <tr>
       <td>FGVCAircraft</td>
@@ -1114,14 +1114,14 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
       <td>1</td>
       <td>196</td>
       <td>16,185</td>
-      <td><a href="https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/data">https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/data</a></td>
+      <td><a href="https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/data">https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/data</a> <a href='https://github.com/jhpohovey/StanfordCars-Dataset'>https://github.com/jhpohovey/StanfordCars-Dataset</a></td>
     </tr>
     <tr>
       <td>UCF101</td>
       <td>1</td>
       <td>101</td>
       <td>13,320</td>
-      <td><a href="https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition">https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition</a></td>
+      <td><a href="https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition">https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition</a> <a href='https://www.crcv.ucf.edu/data/UCF101.php'>https://www.crcv.ucf.edu/data/UCF101.php</a></td>
     </tr>
   </tbody>
 </table>
