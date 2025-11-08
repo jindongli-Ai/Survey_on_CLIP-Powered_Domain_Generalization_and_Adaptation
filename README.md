@@ -658,6 +658,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[Slides]](https://iclr.cc/media/iclr-2025/Slides/30349.pdf)
     [[GitHub]](https://github.com/tntek/source-free-domain-adaptation)
 
+6. 2025_NeurIPS_DUET_DUET= Dual-Perspective Pseudo Labeling and Uncertainty-aware Exploration & Exploitation Training for Source-Free Domain Adaptation.
+
+   [[OpenReview]](https://openreview.net/forum?id=0M2M2EVreG)
+   [[GitHub]](https://github.com/l3umblee/duet-sfda)
+
 
 ##### 4.2.2.2 Source-Data-Free Partial-Set Unsupervised Domain Adaptation (SDF-PSUDA)
 
