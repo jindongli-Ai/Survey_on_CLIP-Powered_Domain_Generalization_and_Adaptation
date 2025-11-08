@@ -931,7 +931,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
-<div style="font-size:13px;">
+<div style="font-size:9px;">
 <table>
   <thead>
     <tr>
