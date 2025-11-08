@@ -1148,7 +1148,9 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ## Related Reposority
 
-1. DomainBed. [[GitHub]](https://github.com/facebookresearch/DomainBed)
+1. DomainBed.
+
+    [[GitHub]](https://github.com/facebookresearch/DomainBed)
 
 
 
