@@ -357,7 +357,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[ICASSP]](https://ieeexplore.ieee.org/abstract/document/10888057)
     [[GitHub]](https://github.com/zhanghr2001/PromptTA)
 
+5. 2025_TCSVT_BatStyler_BatStyler= Advancing Multi-category Style Generation for Source-free Domain Generalization.
 
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10824851)
+    [[arXiv]](https://arxiv.org/abs/2501.01109)
+    [[GitHub]](https://github.com/Xuxiusheng/BatStyler)
 
 
 
