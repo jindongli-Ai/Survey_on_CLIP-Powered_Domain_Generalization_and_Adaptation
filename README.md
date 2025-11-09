@@ -327,7 +327,8 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10944011)
     [[arXiv]](https://arxiv.org/abs/2310.11031)
-
+    [[HomePage]](https://cvlab-kaist.github.io/MoA/)
+    [[GitHub]](https://github.com/cvlab-kaist/MoA)
 
 
 ##### 3.2.1.3 Multi-Source Open-Set Domain Generalization (MS-OSDG)
