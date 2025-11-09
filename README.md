@@ -481,7 +481,9 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
     [[ACM]](https://dl.acm.org/doi/abs/10.1145/3725735?casa_token=fsXg80LMnesAAAAA:Plhjy5pZBpzlrjpZ3haLdoL6ICIq99-seX2hwKV3OhgXDE_7uldRh4VsxUGF6KmNHvzkz_h1YPLxSg)
 
+5. 2025_TOMM_UTISA_Unified Text-Image Space Alignment with Cross-Modal Prompting in CLIP for UDA.
 
+    [[ACM]](https://dl.acm.org/doi/full/10.1145/3715699?casa_token=PStndYX2U_oAAAAA%3AtSEm9O4_cDI53C3UT5t_uLlP6aTeV1SIJISAvrgSzsvXuMNbDiiUExjH9tlWMChIz9D40RR_OJxhsg)
 
 
 
