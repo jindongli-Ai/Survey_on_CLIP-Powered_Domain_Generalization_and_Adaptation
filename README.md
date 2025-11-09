@@ -213,9 +213,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Bose_STYLIP_Multi-Scale_Style-Conditioned_Prompt_Learning_for_CLIP-Based_Domain_Generalization_WACV_2024_paper.html)
     [[arXiv]](https://arxiv.org/abs/2302.09251)
 
+9. 2025_CVPR Workshop_FrogDogNet_FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing.
 
-
-
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Gunduboina_FrogDogNet_Fourier_frequency_Retained_visual_prompt_Output_Guidance_for_Domain_CVPRW_2025_paper.html)
+    [[arXiv]](https://arxiv.org/abs/2504.16433)
+    [[GitHub]](https://github.com/HariseetharamG/FrogDogNet)
 
 
 
