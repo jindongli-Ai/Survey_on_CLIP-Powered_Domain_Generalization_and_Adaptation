@@ -293,7 +293,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
     
-1. 2024_AIEA_Mix-up Loss_Robust Domain Generalization for Multi-modal Object Recognition.
+1. 2024_AIEA_Mixup CLIPood_Robust Domain Generalization for Multi-modal Object Recognition.
 
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10692575)
     [[arXiv]](https://arxiv.org/abs/2408.05831)
