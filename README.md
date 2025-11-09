@@ -465,6 +465,13 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
+18. 2025_WACV_SWG_Combining Inherent Knowledge of Vision-Language Models with Unsupervised Domain Adaptation through Strong-weak Guidance.
+
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10943465)
+    [[arXiv]](https://arxiv.org/abs/2312.04066)
+
+
+
 
 ##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
 
