@@ -459,6 +459,13 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
+17. 2025_TOMM_PIMA_Prompt-Based Invertible Mapping Alignment for Unsupervised Domain Adaptation.
+
+    [[ACM]](https://dl.acm.org/doi/abs/10.1145/3725735?casa_token=fsXg80LMnesAAAAA:Plhjy5pZBpzlrjpZ3haLdoL6ICIq99-seX2hwKV3OhgXDE_7uldRh4VsxUGF6KmNHvzkz_h1YPLxSg)
+
+
+
+
 ##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
 
 1. 2023_arXiv_2025_CVIU_ODA with CLIP_Open-Set Domain Adaptation with Visual-Language Foundation Models.
