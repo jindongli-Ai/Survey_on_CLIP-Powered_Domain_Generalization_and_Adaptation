@@ -471,7 +471,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
     [[IEEE]](https://ieeexplore.ieee.org/document/10647719)
 
-4. 2025_CVIU__entropy optimization_Open-set Domain Adaptation with Visual-Language Foundation Models.
+4. 2025_CVIU_entropy optimization_Open-set Domain Adaptation with Visual-Language Foundation Models.
 
     [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S1077314224003114)
     [[arXiv]](https://arxiv.org/abs/2307.16204)
