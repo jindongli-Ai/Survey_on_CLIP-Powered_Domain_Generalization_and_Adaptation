@@ -403,6 +403,9 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ##### 4.1.1.1 Single-Source Closed-Set Unsupervised Domain Adaptation (SS-CSUDA)
 
+
+###### (i) Domain-Aware and Dual-Branch Prompt Tuning.
+
 1. 2023_ICCV_PADCLIP_PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation.
 
     [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Lai_PADCLIP_Pseudo-labeling_with_Adaptive_Debiasing_in_CLIP_for_Unsupervised_Domain_ICCV_2023_paper.html)
@@ -421,88 +424,108 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2202.06687)
     [[GitHub]](https://github.com/LeapLabTHU/DAPrompt)
 
-4. 2024_arXiv_CLIP-Div_CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
 
-    [[arXiv]](https://arxiv.org/abs/2407.01842)
-
-5. 2024_AAAI_PDA_Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
+4. 2024_AAAI_PDA_Prompt-based Distribution Alignment for Unsupervised Domain Adaptation.
 
     [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/27830)
     [[arXiv]](https://arxiv.org/abs/2312.09553v1)
     [[GitHub]](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment)
 
-6. 2024_CVPR_DAMP_Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
+5. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
+
+    [[WACV]](https://openaccess.thecvf.com/content/WACV2024/papers/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.pdf)
+    [[IEEE]](https://ieeexplore.ieee.org/document/10484237)
+
+6. 2025_IJCV_MAwLLM_Multi-modal Prompt Alignment with Fine-grained LLM Knowledge for Unsupervised Domain Adaptation.
+    
+    [[Springer]](https://link.springer.com/article/10.1007/s11263-025-02497-1)
+    
+
+7. 2025_KBS_PDbDa_PDbDa: Prompt-Tuned Dual-Branch Framework for Unsupervised Domain Adaptation.
+
+    [[Elsevier]](https://www.sciencedirect.com/science/article/pii/S0950705125015485)
+
+
+8. 2025_TIP_ADAPT_When Adversarial Training Meets Prompt Tuning: Adversarial Dual Prompt Tuning for Unsupervised Domain Adaptation.
+
+    [[ACM]](https://dl.acm.org/doi/abs/10.1109/TIP.2025.3541868)
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10901852)
+    [[GitHub]](https://github.com/Liuziyi1999/ADAPT)
+
+
+
+
+###### (ii) Cross-Modal Alignment and Bridging Mechanisms.
+
+
+1. 2024_CVPR_DAMP_Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Du_Domain-Agnostic_Mutual_Prompting_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10658604)
     [[arXiv]](https://arxiv.org/abs/2403.02899)
     [[GitHub]](https://github.com/TL-UESTC/DAMP)
 
-7. 2024_CVPR_UniMoS_Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
+2. 2024_CVPR_UniMoS_Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Split_to_Merge_Unifying_Separated_Modalities_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10656339)
     [[arXiv]](https://arxiv.org/abs/2403.06946v1)
     [[GitHub]](https://github.com/TL-UESTC/UniMoS)
 
-8. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
+3. 2025_TGRS_PADA-Net_Prompt-Integrated Adversarial Unsupervised Domain Adaptation for Scene Recognition.
 
-    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10612077)
-   
-9. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10845875)\
+
+4. 2025_TOMM_PIMA_Prompt-Based Invertible Mapping Alignment for Unsupervised Domain Adaptation.
+
+    [[ACM]](https://dl.acm.org/doi/abs/10.1145/3725735?casa_token=fsXg80LMnesAAAAA:Plhjy5pZBpzlrjpZ3haLdoL6ICIq99-seX2hwKV3OhgXDE_7uldRh4VsxUGF6KmNHvzkz_h1YPLxSg)
+
+
+
+
+
+###### (iii) Distribution Alignment and Regularization Strategies.
+
+1. 2024_arXiv_CLIP-Div_CLIP the Divergence: Language-guided Unsupervised Domain Adaptation.
+
+    [[arXiv]](https://arxiv.org/abs/2407.01842)
+
+2. 2024_IJCNN_DACR_CLIP-Enhanced Unsupervised Domain Adaptation with Consistency Regularization.
 
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10650901)
 
-10. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
+3. 2024_TCSVT_CMKD_Unsupervised Domain Adaption Harnessing Vision-Language Pre-training.
 
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10505301)
     [[ACM]](https://dl.acm.org/doi/abs/10.1109/TCSVT.2024.3391304)
     [[arXiv]](https://arxiv.org/abs/2408.02192)
     [[GitHub]](https://github.com/Wenlve-Zhou/VLP-UDA)
 
-11. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
+4. 2025_WACV_SWG_Combining Inherent Knowledge of Vision-Language Models with Unsupervised Domain Adaptation through Strong-weak Guidance.
+
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10943465)
+    [[arXiv]](https://arxiv.org/abs/2312.04066)
+
+
+
+###### (iv) Fuzzy System–Enhanced Adaptation.
+
+
+1. 2024_FUZZ-IEEE_VLM-TSK-DA_Enhancing Vision-Language Models Incorporating TSK Fuzzy System for Domain Adaptation.
+
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10612077)
+
+2. 2024_TOFS_FUZZLE_Unsupervised Domain Adaptation Enhanced by Fuzzy Prompt Learning.
 
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10502168)
     [[ACM]](https://dl.acm.org/doi/abs/10.1109/TFUZZ.2024.3389705)
 
-12. 2024_WACV_PTT-VFR_Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models.
-
-    [[WACV]](https://openaccess.thecvf.com/content/WACV2024/papers/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.pdf)
-    [[IEEE]](https://ieeexplore.ieee.org/document/10484237)
-
-
-13. 2025_IJCV_MAwLLM_Multi-modal Prompt Alignment with Fine-grained LLM Knowledge for Unsupervised Domain Adaptation.
-    
-    [[Springer]](https://link.springer.com/article/10.1007/s11263-025-02497-1)
-    
-
-14. 2025_KBS_PDBDa_PDbDa: Prompt-Tuned Dual-Branch Framework for Unsupervised Domain Adaptation.
-
-    [[Elsevier]](https://www.sciencedirect.com/science/article/pii/S0950705125015485)
-
-
-15. 2025_TIP_ADAPT_When Adversarial Training Meets Prompt Tuning: Adversarial Dual Prompt Tuning for Unsupervised Domain Adaptation.
-
-    [[ACM]](https://dl.acm.org/doi/abs/10.1109/TIP.2025.3541868)
-    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10901852)
-    [[GitHub]](https://github.com/Liuziyi1999/ADAPT)
-
-16. 2025_TGRS_PADA-Net_Prompt-Integrated Adversarial Unsupervised Domain Adaptation for Scene Recognition.
-
-    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10845875)
 
 
 
-17. 2025_TOMM_PIMA_Prompt-Based Invertible Mapping Alignment for Unsupervised Domain Adaptation.
-
-    [[ACM]](https://dl.acm.org/doi/abs/10.1145/3725735?casa_token=fsXg80LMnesAAAAA:Plhjy5pZBpzlrjpZ3haLdoL6ICIq99-seX2hwKV3OhgXDE_7uldRh4VsxUGF6KmNHvzkz_h1YPLxSg)
 
 
 
-18. 2025_WACV_SWG_Combining Inherent Knowledge of Vision-Language Models with Unsupervised Domain Adaptation through Strong-weak Guidance.
-
-    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10943465)
-    [[arXiv]](https://arxiv.org/abs/2312.04066)
 
 
 
