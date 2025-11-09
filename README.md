@@ -474,7 +474,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 3. 2025_TGRS_PADA-Net_Prompt-Integrated Adversarial Unsupervised Domain Adaptation for Scene Recognition.
 
-    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10845875)\
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10845875)
 
 4. 2025_TOMM_PIMA_Prompt-Based Invertible Mapping Alignment for Unsupervised Domain Adaptation.
 
