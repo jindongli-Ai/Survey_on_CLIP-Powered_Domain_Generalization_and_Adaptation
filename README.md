@@ -500,10 +500,18 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[arXiv]](https://arxiv.org/abs/2401.14148)
     [[GitHub]](https://github.com/wongzbb/LanDA)
 
-3. 2025_CVPR_CRPL_Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation.
+
+3. 2024_OpenReview_MSDPL_Domain Prompt Matters a Lot in Multi-Source Few-Shot Domain Adaptation.
+
+    [[OpenReview]](https://openreview.net/forum?id=YRJDZYGmAZ)
+
+
+4. 2025_CVPR_CRPL_Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Vuong_Preserving_Clusters_in_Prompt_Learning_for_Unsupervised_Domain_Adaptation_CVPR_2025_paper.html)
     [[arXiv]](https://arxiv.org/abs/2506.11493)
+
+
 
 
 ##### 4.1.2.2 Multi-Source Open-Partial-Set Unsupervised Domain Adaptation (MS-OPSUDA) a.k.a. Universal Multi-Source Domain Adaptation (UniMDA)
@@ -514,11 +522,6 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 
-##### 4.1.2.3 Multi-Source Few-Shot Domain Adaptation (MS-FSDA)
-
-1. 2024_OpenReview_MSDPL_Domain Prompt Matters a Lot in Multi-Source Few-Shot Domain Adaptation.
-
-    [[OpenReview]](https://openreview.net/forum?id=YRJDZYGmAZ)
 
 
 
