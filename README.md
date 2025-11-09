@@ -291,14 +291,20 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
     [[arXiv]](https://arxiv.org/abs/2507.02288)
 
-12. 2025_CVPR_Diverse-Text-Prompts_Domain Generalization in CLIP via Learing with Diverse Text Prompts.
+13. 2025_CVPR_Diverse-Text-Prompts_Domain Generalization in CLIP via Learing with Diverse Text Prompts.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Wen_Domain_Generalization_in_CLIP_via_Learning_with_Diverse_Text_Prompts_CVPR_2025_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/document/11093286/similar#similar)
 
-13. 2025_TCSVT_ClipMix_ClipMix for Domain Generalization.
+14. 2025_TCSVT_ClipMix_ClipMix for Domain Generalization.
 
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11026112?casa_token=C0gTWXlZzzIAAAAA:ilLByo1UME0HomZgn58lQMI_0a0EO7ksIBSe4eg-WZGnuEyrW6ckLJaRye2CtTHrir731joG0jPMSSA)
+
+
+15. 2025_WACV_MoA_Domain Generalization using Large Pretrained Models with Mixture-of-Adapters.
+
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10944011)
+    [[arXiv]](https://arxiv.org/abs/2310.11031)
 
 
 
