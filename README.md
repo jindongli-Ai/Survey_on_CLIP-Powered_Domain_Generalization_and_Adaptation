@@ -453,6 +453,11 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10901852)
     [[GitHub]](https://github.com/Liuziyi1999/ADAPT)
 
+16. 2025_TGRS_PADA-Net_Prompt-Integrated Adversarial Unsupervised Domain Adaptation for Scene Recognition.
+
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10845875)
+
+
 
 ##### 4.1.1.2 Single-Source Open-Set Unsupervised Domain Adaptation (SS-OSUDA)
 
