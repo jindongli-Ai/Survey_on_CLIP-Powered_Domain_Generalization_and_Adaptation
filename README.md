@@ -167,57 +167,66 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 #### 3.2.1 Source-Available (SA)
 ##### 3.2.1.1 Single-Source Closed-Set Domain Generalization (SS-CSDG)
 
-1. 2023_ICCV_BorLan_Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm.
 
-    [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.html)
-    [[IEEE]](https://ieeexplore.ieee.org/document/10377230)
-    [[GitHub]](https://github.com/BIT-DA/BorLan)
+###### (i) prompt-driven optimization methods.
 
-2. 2023_ICCV_DAPT_Distribution-Aware Prompt Tuning for Vision-Language Models.
+1. 2023_ICCV_DAPT_Distribution-Aware Prompt Tuning for Vision-Language Models.
 
     [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_Distribution-Aware_Prompt_Tuning_for_Vision-Language_Models_ICCV_2023_paper.html)
     [[arXiv]](https://arxiv.org/abs/2309.03406)
     [[GitHub]](https://github.com/mlvlab/DAPT)
     [[GitHub 2]](https://github.com/guspan-tanadi/DAPTbymlvlab)
 
-3. 2023_ICCV_PromptSRC_Self-Regulating Prompts: Foundational Model Adaptation without Forgetting.
+2. 2023_ICCV_PromptSRC_Self-Regulating Prompts: Foundational Model Adaptation without Forgetting.
 
     [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10376701)
     [[GitHub]](https://github.com/muzairkhattak/PromptSRC)
 
-4. 2024_ECCV_GalLoP_GalLoP: Learning Global and Local Prompts for Vision-Language Models.
+3. 2024_ECCV_GalLoP_GalLoP: Learning Global and Local Prompts for Vision-Language Models.
 
     [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-73030-6_15)
     [[arXiv]](https://arxiv.org/abs/2407.01400v1)
     [[GitHub]](https://github.com/MarcLafon/gallop)
 
-5. 2024_arXiv_LDFS_Enhancing Vision-Language Models Generalization via Diversity-Driven Novel Feature Synthesis.
+4. 2024_arXiv_LDFS_Enhancing Vision-Language Models Generalization via Diversity-Driven Novel Feature Synthesis.
 
     [[arXiv]](https://arxiv.org/abs/2405.02586)
 
-6. 2024_ECCV_SPG_Soft Prompt Generation for Domain Generalization.
+5. 2024_ECCV_SPG_Soft Prompt Generation for Domain Generalization.
 
     [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-72646-0_25)
     [[arXiv]](https://arxiv.org/abs/2404.19286)
     [[GitHub]](https://github.com/renytek13/Soft-Prompt-Generation)
 
-7. 2024_CVPR_MMA_MMA: Multi-Modal Adapter for Vision-Language Models.
+6. 2025_CVPR Workshop_FrogDogNet_FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing.
+
+    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Gunduboina_FrogDogNet_Fourier_frequency_Retained_visual_prompt_Output_Guidance_for_Domain_CVPRW_2025_paper.html)
+    [[arXiv]](https://arxiv.org/abs/2504.16433)
+    [[GitHub]](https://github.com/HariseetharamG/FrogDogNet)
+
+
+
+###### (ii) architecture-enhanced alignment methods.
+
+1. 2023_ICCV_BorLan_Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm.
+
+    [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Ma_Borrowing_Knowledge_From_Pre-trained_Language_Model_A_New_Data-efficient_Visual_ICCV_2023_paper.html)
+    [[IEEE]](https://ieeexplore.ieee.org/document/10377230)
+    [[GitHub]](https://github.com/BIT-DA/BorLan)
+
+2. 2024_CVPR_MMA_MMA: Multi-Modal Adapter for Vision-Language Models.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)
     [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10655598)
     [[GitHub]](https://github.com/ZjjConan/VLM-MultiModalAdapter)
 
-8. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
+3. 2024_WACV_StyLIP_StyLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-based Domain Generalization.
 
     [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Bose_STYLIP_Multi-Scale_Style-Conditioned_Prompt_Learning_for_CLIP-Based_Domain_Generalization_WACV_2024_paper.html)
     [[arXiv]](https://arxiv.org/abs/2302.09251)
 
-9. 2025_CVPR Workshop_FrogDogNet_FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing.
 
-    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Gunduboina_FrogDogNet_Fourier_frequency_Retained_visual_prompt_Output_Guidance_for_Domain_CVPRW_2025_paper.html)
-    [[arXiv]](https://arxiv.org/abs/2504.16433)
-    [[GitHub]](https://github.com/HariseetharamG/FrogDogNet)
 
 
 
