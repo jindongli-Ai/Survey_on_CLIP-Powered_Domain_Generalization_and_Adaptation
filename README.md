@@ -580,7 +580,13 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
     [[OpenReview]](https://openreview.net/forum?id=YRJDZYGmAZ)
 
 
-4. 2025_CVPR_CRPL_Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation.
+4. 2025_AAAI_VAMP_Vision-aware Multimodal Prompt Tuning for Uploadable Multi-source Few-Shot Domain Adaptation.
+
+    [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/34080)
+    [[arXiv]](https://arxiv.org/abs/2503.06106)
+
+
+5. 2025_CVPR_CRPL_Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Vuong_Preserving_Clusters_in_Prompt_Learning_for_Unsupervised_Domain_Adaptation_CVPR_2025_paper.html)
     [[arXiv]](https://arxiv.org/abs/2506.11493)
