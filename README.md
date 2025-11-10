@@ -584,9 +584,10 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
     [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/34080)
     [[arXiv]](https://arxiv.org/abs/2503.06106)
+    [[GitHub]](https://github.com/lkh-meredith/VAMP-UMFDA)
 
 
-5. 2025_CVPR_CRPL_Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation.
+6. 2025_CVPR_CRPL_Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation.
 
     [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/html/Vuong_Preserving_Clusters_in_Prompt_Learning_for_Unsupervised_Domain_Adaptation_CVPR_2025_paper.html)
     [[arXiv]](https://arxiv.org/abs/2506.11493)
