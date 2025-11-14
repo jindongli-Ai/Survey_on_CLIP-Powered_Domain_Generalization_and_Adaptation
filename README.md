@@ -1267,13 +1267,15 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 ## Related Survey
 
 1. 2024_TPAMI_Survey_A Comprehensive Survey on Source-Free Domain Adaptation.
-    [[TPAMI]](https://ieeexplore.ieee.org/document/10452835)
+
+   [[TPAMI]](https://ieeexplore.ieee.org/document/10452835)
 
 
 2. 2024_IJCV_Survey_A Comprehensive Survey on Test-Time Adaptation Under Distribution Shifts.
-    [[IJCV]](https://dl.acm.org/doi/abs/10.1007/s11263-024-02181-w)
-    [[arXiv]](https://arxiv.org/abs/2303.15361)
-    [[GitHub]](https://github.com/tim-learn/awesome-test-time-adaptation)
+
+   [[IJCV]](https://dl.acm.org/doi/abs/10.1007/s11263-024-02181-w)
+   [[arXiv]](https://arxiv.org/abs/2303.15361)
+   [[GitHub]](https://github.com/tim-learn/awesome-test-time-adaptation)
    
 
 
