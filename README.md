@@ -1278,6 +1278,12 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
    [[GitHub]](https://github.com/tim-learn/awesome-test-time-adaptation)
    
 
+3. 2024_NN_Survey_Source-free unsupervised domain adaptation: A survey.
+
+    [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0893608024001540)
+    [[ACM]](https://dl.acm.org/doi/abs/10.1016/j.neunet.2024.106230)
+    [[arXiv]](https://arxiv.org/abs/2301.00265)
+
 
 ## Related Reposority
 
