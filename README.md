@@ -1266,23 +1266,41 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 ## Related Survey
 
-1. 2024_TPAMI_Survey_A Comprehensive Survey on Source-Free Domain Adaptation.
+
+1. 2024_AIReview_Survey_Domain Generalization through Meta-Learning: A Survey.
+
+    [[Springer]](https://link.springer.com/article/10.1007/s10462-024-10922-z)
+    [[arXiv]](https://arxiv.org/abs/2404.02785)
+    [[d-bn.info]](https://d-nb.info/135080469X/34)
+
+
+2. 2022_TKDE_Survey_Generalizing to Unseen Domains: A Survey on Domain Generalization.
+    [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9782500)
+    [[IJCAI]](https://www.ijcai.org/proceedings/2021/0628.pdf)
+    [[arXiv]](http://arxiv.org/abs/2103.03097)
+    [[Slides]](https://xiaojieyang.org/assets/files/DGSurvey-ppt.pdf)
+
+
+3. 2024_TPAMI_Survey_A Comprehensive Survey on Source-Free Domain Adaptation.
 
    [[TPAMI]](https://ieeexplore.ieee.org/document/10452835)
 
 
-2. 2024_IJCV_Survey_A Comprehensive Survey on Test-Time Adaptation Under Distribution Shifts.
+4. 2024_NN_Survey_Source-free unsupervised domain adaptation: A survey.
+
+    [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0893608024001540)
+    [[ACM]](https://dl.acm.org/doi/abs/10.1016/j.neunet.2024.106230)
+    [[arXiv]](https://arxiv.org/abs/2301.00265)
+
+
+5. 2024_IJCV_Survey_A Comprehensive Survey on Test-Time Adaptation Under Distribution Shifts.
 
    [[IJCV]](https://dl.acm.org/doi/abs/10.1007/s11263-024-02181-w)
    [[arXiv]](https://arxiv.org/abs/2303.15361)
    [[GitHub]](https://github.com/tim-learn/awesome-test-time-adaptation)
    
 
-3. 2024_NN_Survey_Source-free unsupervised domain adaptation: A survey.
 
-    [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0893608024001540)
-    [[ACM]](https://dl.acm.org/doi/abs/10.1016/j.neunet.2024.106230)
-    [[arXiv]](https://arxiv.org/abs/2301.00265)
 
 
 ## Related Reposority
