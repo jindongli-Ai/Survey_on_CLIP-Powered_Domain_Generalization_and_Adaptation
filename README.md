@@ -21,7 +21,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 
 <div align="center">
-    [TPAMI][https://ieeexplore.ieee.org/document/11342298/authors#authors] <br>
+    [IEEE TPAMI][https://ieeexplore.ieee.org/document/11342298] <br>
     [arXiv][https://arxiv.org/abs/2504.14280] <br>
     [机器之心][https://www.jiqizhixin.com/articles/2025-05-06-5]
 </div>
