@@ -8,7 +8,7 @@ The official GitHub page for the survey paper "CLIP-Powered Domain Generalizatio
 
 <div align="center">
 
-[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2502.11528)
+[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://ieeexplore.ieee.org/document/11342298)
 <a href="https://arxiv.org/abs/2504.14280" target="_blank"><img src="https://img.shields.io/badge/arXiv-2504.14280-009688.svg" alt="arXiv"></a>
 ![](https://img.shields.io/github/stars/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=yellow)
 ![](https://img.shields.io/github/forks/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=lightblue)
